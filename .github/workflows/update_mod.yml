@@ -1,0 +1,41 @@
+name: 上传Mod_Release.json
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  push-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ref: main
+          
+      - name: Download JSON
+        uses: curl-actions/download@v1
+        with:
+          url: 'https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases'
+          path: 'Mod_Release.json'
+          token: ${{ secrets.GH_TOKEN }}
+          email: ${{ secrets.GH_EMAIL }}
+          
+      - name: Add JSON to repo
+        run: |
+          git config --global user.email "${{ secrets.GH_EMAIL }}"
+          git config --global user.name "ZengXiaoPi"
+          git add Mod_Release.json
+          
+      - name: Commit changes
+        run: |
+          git commit -m "Update Mod release."
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          branch: main
+          repository: ZengXiaoPi/LLC_jsontest
