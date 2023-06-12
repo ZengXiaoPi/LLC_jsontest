@@ -16,12 +16,7 @@ jobs:
           ref: main
           
       - name: Download JSON
-        uses: curl-actions/download@v1
-        with:
-          url: 'https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases'
-          path: 'Mod_Release.json'
-          token: ${{ secrets.GH_TOKEN }}
-          email: ${{ secrets.GH_EMAIL }}
+        run: curl -o Mod_Release.json https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases
           
       - name: Add JSON to repo
         run: |
