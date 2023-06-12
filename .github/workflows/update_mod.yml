@@ -1,6 +1,10 @@
 name: 上传Mod_Release.json
 
 on:
+  release:
+    types: [published]
+    repositories:
+     - LocalizeLimbusCompany/LocalizeLimbusCompany
   workflow_dispatch:
   push:
     branches:
