@@ -6,9 +6,6 @@ on:
     repositories:
      - LocalizeLimbusCompany/LocalizeLimbusCompany
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   push-json:
