@@ -1,10 +1,8 @@
 name: 上传MLForLLC_Release.json
 
 on:
-  release:
-    types: [published]
-    repositories:
-     - LocalizeLimbusCompany/MelonLoader-LLC
+  schedule:
+    - cron:  '0 5,12,17 * * *'
   workflow_dispatch:
 
 jobs:
