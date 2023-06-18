@@ -63,7 +63,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 304222,
-        "download_count": 384,
+        "download_count": 452,
         "created_at": "2023-06-16T20:00:16Z",
         "updated_at": "2023-06-16T20:00:17Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.5.2/LimbusLocalize_OTA_v0.5.2.7z"
@@ -97,7 +97,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 727162,
-        "download_count": 1039,
+        "download_count": 1226,
         "created_at": "2023-06-16T20:00:16Z",
         "updated_at": "2023-06-16T20:00:17Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.5.2/LimbusLocalize_v0.5.2.7z"
@@ -205,7 +205,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 654730,
-        "download_count": 1358,
+        "download_count": 1359,
         "created_at": "2023-06-06T11:00:42Z",
         "updated_at": "2023-06-06T11:00:42Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.5.0/LimbusLocalize_v0.5.0.7z"
@@ -213,7 +213,19 @@
     ],
     "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/tarball/v0.5.0",
     "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/zipball/v0.5.0",
-    "body": "# v0.5.0\r\n- 改进\r\n  - 增加是否使用自动更新模组选项，但默认不使用；如果希望使用请查看并修改“UserData/MelonPreferences.cfg”文件\r\n![image](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/assets/87061166/b90b337b-2118-4142-8b21-ee753afc1c23)\r\n  - 重构 自动安装模组程序 并增加几个功能[`LLC_MOD_Toolbox`![](https://img.shields.io/github/release/LocalizeLimbusCompany/LLC_MOD_Installer.svg?label=版本)](https://github.com/LocalizeLimbusCompany/LLC_MOD_Installer)\r\n![image](https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/assets/102937102/e797592b-884b-4312-9e15-0ff38c44ec2d)\r\n- 汉化内容跟进\r\n  - “主线剧情4与第2赛季(上)” 的汉化内容(下) 更新\r\n    - 汉化内容将按照《上》、《下》两部分更新\r\n      - 《上》只是汉化进度100%版本，其内容可能是未经验证的，非最终译本的，请使用者自行抉择\r\n      - 《下》为校对进度50%+的版本\r\n  - 其他内容跟进\r\n# 下载\r\n- LimbusLocalize_v0.5.0.7z 全量包\r\n- LimbusLocalize_OTA_v0.5.0.7z 增量更新\r\n"
+    "body": "# v0.5.0\r\n- 改进\r\n  - 增加是否使用自动更新模组选项，但默认不使用；如果希望使用请查看并修改“UserData/MelonPreferences.cfg”文件\r\n![image](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/assets/87061166/b90b337b-2118-4142-8b21-ee753afc1c23)\r\n  - 重构 自动安装模组程序 并增加几个功能[`LLC_MOD_Toolbox`![](https://img.shields.io/github/release/LocalizeLimbusCompany/LLC_MOD_Installer.svg?label=版本)](https://github.com/LocalizeLimbusCompany/LLC_MOD_Installer)\r\n![image](https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/assets/102937102/e797592b-884b-4312-9e15-0ff38c44ec2d)\r\n- 汉化内容跟进\r\n  - “主线剧情4与第2赛季(上)” 的汉化内容(下) 更新\r\n    - 汉化内容将按照《上》、《下》两部分更新\r\n      - 《上》只是汉化进度100%版本，其内容可能是未经验证的，非最终译本的，请使用者自行抉择\r\n      - 《下》为校对进度50%+的版本\r\n  - 其他内容跟进\r\n# 下载\r\n- LimbusLocalize_v0.5.0.7z 全量包\r\n- LimbusLocalize_OTA_v0.5.0.7z 增量更新\r\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/107492647/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
   },
   {
     "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/105775727",
