@@ -63,7 +63,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 304222,
-        "download_count": 798,
+        "download_count": 840,
         "created_at": "2023-06-16T20:00:16Z",
         "updated_at": "2023-06-16T20:00:17Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.5.2/LimbusLocalize_OTA_v0.5.2.7z"
@@ -97,7 +97,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 727162,
-        "download_count": 2159,
+        "download_count": 2247,
         "created_at": "2023-06-16T20:00:16Z",
         "updated_at": "2023-06-16T20:00:17Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.5.2/LimbusLocalize_v0.5.2.7z"
@@ -105,7 +105,19 @@
     ],
     "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/tarball/v0.5.2",
     "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/zipball/v0.5.2",
-    "body": "# v0.5.2\r\n- 汉化内容跟进\r\n  - “主线剧情4与第2赛季(下)” 的汉化内容 更新\r\n  - Tips:\r\n    - 部分李箱语我们正在加紧校对和讨论，现在他们可能是未经校对的 含有歧义的 多种风格的，希望各位能多多包涵\r\n    - 关于山茶花为什么是山茶花请参考GitHub的当前置顶[Issues#117](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues/117)\r\n  - 其他内容跟进\r\n# 下载\r\n- LimbusLocalize_v0.5.2.7z 全量包\r\n- LimbusLocalize_OTA_v0.5.2.7z 增量更新\r\n"
+    "body": "# v0.5.2\r\n- 汉化内容跟进\r\n  - “主线剧情4与第2赛季(下)” 的汉化内容 更新\r\n  - Tips:\r\n    - 部分李箱语我们正在加紧校对和讨论，现在他们可能是未经校对的 含有歧义的 多种风格的，希望各位能多多包涵\r\n    - 关于山茶花为什么是山茶花请参考GitHub的当前置顶[Issues#117](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/issues/117)\r\n  - 其他内容跟进\r\n# 下载\r\n- LimbusLocalize_v0.5.2.7z 全量包\r\n- LimbusLocalize_OTA_v0.5.2.7z 增量更新\r\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/108928855/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
   },
   {
     "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/107492647",
@@ -171,7 +183,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 255081,
-        "download_count": 3260,
+        "download_count": 3261,
         "created_at": "2023-06-06T11:00:42Z",
         "updated_at": "2023-06-06T11:00:42Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.5.0/LimbusLocalize_OTA_v0.5.0.7z"
@@ -205,7 +217,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 654730,
-        "download_count": 1361,
+        "download_count": 1362,
         "created_at": "2023-06-06T11:00:42Z",
         "updated_at": "2023-06-06T11:00:42Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.5.0/LimbusLocalize_v0.5.0.7z"
