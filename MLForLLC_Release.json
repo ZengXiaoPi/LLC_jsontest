@@ -211,7 +211,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 22613029,
-        "download_count": 791,
+        "download_count": 805,
         "created_at": "2023-06-03T14:27:40Z",
         "updated_at": "2023-06-03T14:28:01Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/MelonLoader-LLC/releases/download/v0.6.1-OpenLLCBeta/MelonLoader_v0.6.1-OpenLLCBeta.zip"
