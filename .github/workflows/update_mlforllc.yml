@@ -2,7 +2,7 @@ name: 上传MLForLLC_Release.json
 
 on:
   schedule:
-    - cron:  '0 5,12,17 * * *'
+    - cron:  '0 12 * * *'
   workflow_dispatch:
 
 jobs:
