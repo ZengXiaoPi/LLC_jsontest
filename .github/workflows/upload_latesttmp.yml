@@ -1,0 +1,35 @@
+name: 上传MLForLLC_Release.json
+
+on:
+  schedule:
+    - cron:  '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  push-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ref: main
+          
+      - name: Download JSON
+        run: curl -o MLForLLC_Release.json https://api.github.com/repos/LocalizeLimbusCompany/MelonLoader-LLC/releases/latest
+          
+      - name: Add JSON to repo
+        run: |
+          git config --global user.email "${{ secrets.GH_EMAIL }}"
+          git config --global user.name "ZengXiaoPi"
+          git add MLForLLC_Release.json
+          
+      - name: Commit changes
+        run: |
+          git commit -m "Update Installer release."
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          branch: main
+          repository: ZengXiaoPi/LLC_jsontest
