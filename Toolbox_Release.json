@@ -31,13 +31,13 @@
     "name": "v0.3.3",
     "draft": false,
     "prerelease": false,
-    "created_at": "2023-06-24T07:30:54Z",
+    "created_at": "2023-06-24T14:18:18Z",
     "published_at": "2023-06-24T07:33:10Z",
     "assets": [
       {
-        "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/114140993",
-        "id": 114140993,
-        "node_id": "RA_kwDOJRBtb84GzadB",
+        "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/114166154",
+        "id": 114166154,
+        "node_id": "RA_kwDOJRBtb84GzgmK",
         "name": "LimbusCompanyMod_Toolbox.7z",
         "label": null,
         "uploader": {
@@ -62,16 +62,16 @@
         },
         "content_type": "application/octet-stream",
         "state": "uploaded",
-        "size": 1438375,
-        "download_count": 51,
-        "created_at": "2023-06-24T07:38:11Z",
-        "updated_at": "2023-06-24T07:39:04Z",
+        "size": 1438545,
+        "download_count": 114,
+        "created_at": "2023-06-24T14:15:27Z",
+        "updated_at": "2023-06-24T14:15:57Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.3.3/LimbusCompanyMod_Toolbox.7z"
       }
     ],
     "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v0.3.3",
     "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v0.3.3",
-    "body": "感谢支持。\r\n更新内容：\r\n- 增加版本更新功能，从镜像站获取Github API实现国内可访问，减少安装后更新的时间\r\n- 尝试修复“基础链接发生问题”\r\n- 删除启用/禁用模组按钮"
+    "body": "感谢支持。\r\n更新内容：\r\n- 增加版本更新功能，从镜像站获取Github API实现国内可访问，减少安装后更新的时间\r\n- 尝试修复“基础链接发生问题”\r\n- 删除启用/禁用模组按钮\r\n\r\n**紧急修复安装问题**"
   },
   {
     "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/107621348",
@@ -137,7 +137,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 1437359,
-        "download_count": 2963,
+        "download_count": 2970,
         "created_at": "2023-06-07T08:29:35Z",
         "updated_at": "2023-06-07T09:33:37Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.3.2/LimbusCompanyMod_Toolbox.7z"
