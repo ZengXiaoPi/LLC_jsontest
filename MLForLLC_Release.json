@@ -63,7 +63,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 22113951,
-        "download_count": 10194,
+        "download_count": 10217,
         "created_at": "2023-06-13T18:34:48Z",
         "updated_at": "2023-06-13T18:36:34Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/MelonLoader-LLC/releases/download/v0.6.3/ML_LLC_v0.6.3.zip"
@@ -211,7 +211,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 22613029,
-        "download_count": 2073,
+        "download_count": 2075,
         "created_at": "2023-06-03T14:27:40Z",
         "updated_at": "2023-06-03T14:28:01Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/MelonLoader-LLC/releases/download/v0.6.1-OpenLLCBeta/MelonLoader_v0.6.1-OpenLLCBeta.zip"
