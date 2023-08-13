@@ -63,7 +63,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 135423,
-        "download_count": 57,
+        "download_count": 113,
         "created_at": "2023-08-10T21:07:46Z",
         "updated_at": "2023-08-10T21:07:46Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.5.13/LimbusLocalize_BIE_OTA_v0.5.13.7z"
@@ -97,7 +97,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 798465,
-        "download_count": 455,
+        "download_count": 774,
         "created_at": "2023-08-10T21:07:46Z",
         "updated_at": "2023-08-10T21:07:46Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.5.13/LimbusLocalize_BIE_v0.5.13.7z"
@@ -131,7 +131,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 135561,
-        "download_count": 183,
+        "download_count": 225,
         "created_at": "2023-08-10T21:07:46Z",
         "updated_at": "2023-08-10T21:07:46Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.5.13/LimbusLocalize_OTA_v0.5.13.7z"
@@ -165,7 +165,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 798585,
-        "download_count": 660,
+        "download_count": 988,
         "created_at": "2023-08-10T21:07:46Z",
         "updated_at": "2023-08-10T21:07:46Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.5.13/LimbusLocalize_v0.5.13.7z"
@@ -307,7 +307,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 285665,
-        "download_count": 332,
+        "download_count": 334,
         "created_at": "2023-08-03T20:25:27Z",
         "updated_at": "2023-08-03T20:25:27Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.5.12/LimbusLocalize_OTA_v0.5.12.7z"
@@ -785,7 +785,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 760982,
-        "download_count": 4090,
+        "download_count": 4091,
         "created_at": "2023-07-14T09:20:07Z",
         "updated_at": "2023-07-14T09:20:07Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.5.8/LimbusLocalize_v0.5.8.7z"
