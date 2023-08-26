@@ -63,7 +63,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 14562110,
-        "download_count": 2717,
+        "download_count": 3503,
         "created_at": "2023-08-09T03:26:16Z",
         "updated_at": "2023-08-09T03:26:27Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.4.2/LLC_Toolbox_v0.4.2.7z"
@@ -137,7 +137,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 14179994,
-        "download_count": 2838,
+        "download_count": 2845,
         "created_at": "2023-07-14T07:14:50Z",
         "updated_at": "2023-07-29T00:59:00Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.4.0/LLC_Toolbox_v0.4.0.7z"
@@ -211,7 +211,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 1440708,
-        "download_count": 130,
+        "download_count": 131,
         "created_at": "2023-07-12T16:03:05Z",
         "updated_at": "2023-07-12T21:24:48Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.3.6/LLC_Toolbox_v0.3.6.7z"
@@ -285,7 +285,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 1544555,
-        "download_count": 2045,
+        "download_count": 2046,
         "created_at": "2023-07-01T04:23:45Z",
         "updated_at": "2023-07-01T04:23:49Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.3.5/LLC_Toolbox_v0.3.5.rar"
@@ -359,7 +359,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 1547612,
-        "download_count": 201,
+        "download_count": 202,
         "created_at": "2023-06-30T18:13:14Z",
         "updated_at": "2023-06-30T18:13:16Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.3.4/LimbusCompanyMod_Toolbox.rar"
@@ -433,7 +433,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 1438545,
-        "download_count": 755,
+        "download_count": 756,
         "created_at": "2023-06-24T14:15:27Z",
         "updated_at": "2023-06-24T14:15:57Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.3.3/LimbusCompanyMod_Toolbox.7z"
@@ -507,7 +507,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 1437359,
-        "download_count": 2990,
+        "download_count": 2991,
         "created_at": "2023-06-07T08:29:35Z",
         "updated_at": "2023-06-07T09:33:37Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.3.2/LimbusCompanyMod_Toolbox.7z"
@@ -655,7 +655,7 @@
         "content_type": "application/octet-stream",
         "state": "uploaded",
         "size": 1436524,
-        "download_count": 137,
+        "download_count": 138,
         "created_at": "2023-06-03T11:31:32Z",
         "updated_at": "2023-06-03T11:56:46Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.3.0/LimbusCompanyMod_Toolbox.7z"
