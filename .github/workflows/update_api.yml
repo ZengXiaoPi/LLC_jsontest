@@ -2,7 +2,7 @@ name: 更新 Release API
 
 on:
   schedule:
-    - cron:  '0 5 * * *'
+    - cron:  '0 4 * * *'
   workflow_dispatch:
 
 jobs:
@@ -14,9 +14,9 @@ jobs:
           
       - name: Download JSON
         run: |
-          curl -o BepInEx_For_LLC_Release.json https://api.github.com/repos/LocalizeLimbusCompany/BepInEx_For_LLC/releases
+          curl -o BepInEx_For_LLC_Release.json https://api.github.com/repos/LocalizeLimbusCompany/BepInEx_For_LLC/releases/latest
           curl -o Mod_Release.json https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases
-          curl -o tmp_Release.json https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases
+          curl -o LatestMod_Release.json https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/latest
           curl -o Toolbox_Release.json https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/latest
           curl -o LatestTmp_Release.json https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/latest
           
