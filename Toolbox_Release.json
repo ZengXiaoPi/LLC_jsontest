@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/122318127",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/122318127/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/122318127/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v0.4.6",
-  "id": 122318127,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/123079724",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/123079724/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/123079724/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v0.5.0",
+  "id": 123079724,
   "author": {
     "login": "ZengXiaoPi",
     "id": 102937102,
@@ -24,19 +24,19 @@
     "type": "User",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJRBtb84HSm0v",
-  "tag_name": "v0.4.6",
+  "node_id": "RE_kwDOJRBtb84HVgws",
+  "tag_name": "v0.5.0",
   "target_commitish": "master",
-  "name": "v0.4.6",
+  "name": "v0.5.0",
   "draft": false,
   "prerelease": false,
-  "created_at": "2023-09-23T15:07:25Z",
-  "published_at": "2023-09-23T15:12:44Z",
+  "created_at": "2023-09-29T08:01:46Z",
+  "published_at": "2023-09-29T08:19:47Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/127399656",
-      "id": 127399656,
-      "node_id": "RA_kwDOJRBtb84Hl_bo",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/128275577",
+      "id": 128275577,
+      "node_id": "RA_kwDOJRBtb84HpVR5",
       "name": "LLC_MOD_Toolbox.7z",
       "label": null,
       "uploader": {
@@ -61,14 +61,14 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1580967,
-      "download_count": 685,
-      "created_at": "2023-09-23T15:12:28Z",
-      "updated_at": "2023-09-23T15:12:33Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.4.6/LLC_MOD_Toolbox.7z"
+      "size": 1573787,
+      "download_count": 2,
+      "created_at": "2023-09-29T08:20:02Z",
+      "updated_at": "2023-09-29T08:20:06Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.5.0/LLC_MOD_Toolbox.7z"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v0.4.6",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v0.4.6",
-  "body": "修复从Github下载的BepInEx无法正常解压的问题 (#33)"
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v0.5.0",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v0.5.0",
+  "body": "- 更换镜像节点，极大提升访问情况和下载速度。\r\n- 外观更改\r\n![image](https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/assets/102937102/cb7024a4-2cbb-42e9-83b8-f093ff3e560c)\r\n"
 }
