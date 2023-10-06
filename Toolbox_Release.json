@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/123605952",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/123605952/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/123605952/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v0.5.1",
-  "id": 123605952,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/123894669",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/123894669/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/123894669/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v0.5.2",
+  "id": 123894669,
   "author": {
     "login": "ZengXiaoPi",
     "id": 102937102,
@@ -24,20 +24,20 @@
     "type": "User",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJRBtb84HXhPA",
-  "tag_name": "v0.5.1",
+  "node_id": "RE_kwDOJRBtb84HYnuN",
+  "tag_name": "v0.5.2",
   "target_commitish": "master",
-  "name": "v0.5.1",
+  "name": "v0.5.2",
   "draft": false,
   "prerelease": false,
-  "created_at": "2023-10-04T03:04:17Z",
-  "published_at": "2023-10-04T03:06:10Z",
+  "created_at": "2023-10-05T15:49:20Z",
+  "published_at": "2023-10-05T16:05:48Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/128932231",
-      "id": 128932231,
-      "node_id": "RA_kwDOJRBtb84Hr1mH",
-      "name": "LLC_MOD_Toolbox_v0.5.1.7z",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/129200413",
+      "id": 129200413,
+      "node_id": "RA_kwDOJRBtb84Hs3Ed",
+      "name": "LLC_MOD_Toolbox.7z",
       "label": null,
       "uploader": {
         "login": "ZengXiaoPi",
@@ -61,14 +61,14 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1582728,
-      "download_count": 648,
-      "created_at": "2023-10-04T03:05:46Z",
-      "updated_at": "2023-10-04T03:05:51Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.5.1/LLC_MOD_Toolbox_v0.5.1.7z"
+      "size": 1581873,
+      "download_count": 170,
+      "created_at": "2023-10-05T16:04:36Z",
+      "updated_at": "2023-10-05T16:04:44Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.5.2/LLC_MOD_Toolbox.7z"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v0.5.1",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v0.5.1",
-  "body": "fix #34 "
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v0.5.2",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v0.5.2",
+  "body": "## 更新日志\r\n1. 修复Onedrive For Business（镜像节点-3）无法使用的问题。\r\n2. 默认节点修改为Onedrive For Business，可选择使用其他节点，会更快速（前提是你的带宽不和我一样就一二Mbit/s），但也可能更不稳定。\r\n3. 增加Hash检验功能，虽然我也不知道Sha256算不算是Hash，但是也差不多。如果Hash检验不通过将退出程序。作用是检查文件是否完整。\r\n4. 整理代码\r\n如果出现问题请及时反馈。\r\n## 题外话\r\n反正更新日志我自己写，整点私活。\r\n搞镜像服务真的很费时间，如果可以，请别忘了到[汉化补丁仓库](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany)点个Star，这是对开发者最大的鼓励了。\r\n感谢所有曾为汉化补丁贡献的人的贡献，你们都是黑肉。\r\n<a href=\"https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/graphs/contributors\">\r\n  <img src=\"https://contrib.rocks/image?repo=LocalizeLimbusCompany/LocalizeLimbusCompany\" />\r\n</a>\r\n很抱歉工具箱这几天老更新，我也不想老出问题，不过没办法，互相包容吧。\r\n另外国庆假期去哪儿了↑↓啊哈哈↑↓↑↓"
 }
