@@ -62,7 +62,7 @@
       "content_type": "application/x-7z-compressed",
       "state": "uploaded",
       "size": 832104,
-      "download_count": 0,
+      "download_count": 208,
       "created_at": "2023-10-12T12:06:06Z",
       "updated_at": "2023-10-12T12:06:07Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.7/LimbusLocalize_BIE_v0.6.7.7z"
@@ -70,5 +70,5 @@
   ],
   "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/tarball/v0.6.7",
   "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/zipball/v0.6.7",
-  "body": "# v0.6.7\r\n- 汉化内容跟进\r\n  - 空即是色 希斯克利夫 的汉化内容更新\r\n  - 其他内容跟进\r\n# 下载\r\n- LimbusLocalize_BIE_v0.6.7.7z 全量包\r\n- LimbusLocalize_BIE_OTA_v0.6.7.7z 增量更新\r\n"
+  "body": "# v0.6.7\r\n- 汉化内容跟进\r\n  - 空即是色 希斯克利夫 的汉化内容更新\r\n  - 其他内容跟进\r\n# 下载\r\n- LimbusLocalize_BIE_v0.6.7.7z 全量包\r\n"
 }
