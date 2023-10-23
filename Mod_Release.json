@@ -63,7 +63,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 837715,
-        "download_count": 858,
+        "download_count": 996,
         "created_at": "2023-10-19T11:08:12Z",
         "updated_at": "2023-10-19T11:08:12Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.8/LimbusLocalize_BIE_v0.6.8.7z"
@@ -3181,7 +3181,7 @@
         "content_type": "binary/octet-stream",
         "state": "uploaded",
         "size": 397607,
-        "download_count": 2620,
+        "download_count": 2622,
         "created_at": "2023-04-19T05:50:08Z",
         "updated_at": "2023-04-19T05:50:09Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.1.9.9/LimbusLocalize_v0.1.9.9.7z"
