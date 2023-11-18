@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/126117967",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/126117967/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/126117967/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v0.5.3",
-  "id": 126117967,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/129971395",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/129971395/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/129971395/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v0.6.0",
+  "id": 129971395,
   "author": {
     "login": "ZengXiaoPi",
     "id": 102937102,
@@ -24,19 +24,19 @@
     "type": "User",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJRBtb84HhGhP",
-  "tag_name": "v0.5.3",
+  "node_id": "RE_kwDOJRBtb84HvzTD",
+  "tag_name": "v0.6.0",
   "target_commitish": "master",
-  "name": "v0.5.3",
+  "name": "v0.6.0",
   "draft": false,
   "prerelease": false,
-  "created_at": "2023-10-21T14:56:04Z",
-  "published_at": "2023-10-21T15:06:23Z",
+  "created_at": "2023-11-17T14:59:53Z",
+  "published_at": "2023-11-17T15:06:05Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/131694959",
-      "id": 131694959,
-      "node_id": "RA_kwDOJRBtb84H2YFv",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/136055685",
+      "id": 136055685,
+      "node_id": "RA_kwDOJRBtb84IHAuF",
       "name": "LLC_MOD_Toolbox.7z",
       "label": null,
       "uploader": {
@@ -61,16 +61,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1582117,
-      "download_count": 7099,
-      "created_at": "2023-10-21T15:05:36Z",
-      "updated_at": "2023-10-21T15:05:37Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.5.3/LLC_MOD_Toolbox.7z"
+      "size": 1585587,
+      "download_count": 402,
+      "created_at": "2023-11-17T15:05:07Z",
+      "updated_at": "2023-11-17T15:05:13Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.6.0/LLC_MOD_Toolbox.7z"
     },
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/131694956",
-      "id": 131694956,
-      "node_id": "RA_kwDOJRBtb84H2YFs",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/136055696",
+      "id": 136055696,
+      "node_id": "RA_kwDOJRBtb84IHAuQ",
       "name": "LLC_MOD_Toolbox_SFX.exe",
       "label": null,
       "uploader": {
@@ -95,14 +95,14 @@
       },
       "content_type": "application/x-msdownload",
       "state": "uploaded",
-      "size": 1798693,
-      "download_count": 2735,
-      "created_at": "2023-10-21T15:05:33Z",
-      "updated_at": "2023-10-21T15:05:36Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.5.3/LLC_MOD_Toolbox_SFX.exe"
+      "size": 1802163,
+      "download_count": 111,
+      "created_at": "2023-11-17T15:05:13Z",
+      "updated_at": "2023-11-17T15:05:15Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.6.0/LLC_MOD_Toolbox_SFX.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v0.5.3",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v0.5.3",
-  "body": "~~安装器走位觉得离谱↑↓~~\r\n↓以下是真正的更新日志\r\n\r\n-----\r\n1. 将大部分网址更换为韩国首尔服务器（[韩国首尔测试官网](http://kr.zeroasso.top/)）\r\n2. ~~我还干了什么来着？~~\r\n3. 优化启动时间\r\n4. 存在更新时不再打开Github，而是[官网](https://www.zeroasso.top/docs/install/autoinstall#%E4%B8%8B%E8%BD%BD-%E5%B7%A5%E5%85%B7%E7%AE%B1)\r\n5. ~\\(≧▽≦)/~~\\(≧▽≦)/~~\\(≧▽≦)/~\r\n## 文件说明\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包\r\n- LLC_MOD_Toolbox.7z 压缩包"
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v0.6.0",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v0.6.0",
+  "body": "大版本更新，他真大吗？\r\n如大嘛。\r\n-----\r\n- 界面更新（更丑了）\r\n![image](https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/assets/102937102/777b28c5-4f49-49c8-854b-9ce45739bcc2)\r\n- 灰度更新功能更新（预计在官网说明此功能）\r\n![image](https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/assets/102937102/e72034e5-bdaa-45c3-8b0b-ef3d36e678c6)\r\n\r\n"
 }
