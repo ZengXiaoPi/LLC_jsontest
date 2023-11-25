@@ -31,7 +31,7 @@
     "name": "v0.6.13",
     "draft": false,
     "prerelease": false,
-    "created_at": "2023-11-24T15:24:22Z",
+    "created_at": "2023-11-24T15:37:24Z",
     "published_at": "2023-11-24T15:34:25Z",
     "assets": [
       {
@@ -63,7 +63,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 931988,
-        "download_count": 0,
+        "download_count": 446,
         "created_at": "2023-11-24T15:34:26Z",
         "updated_at": "2023-11-24T15:34:26Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.13/LimbusLocalize_BIE_v0.6.13.7z"
@@ -137,7 +137,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 892231,
-        "download_count": 2314,
+        "download_count": 2319,
         "created_at": "2023-11-17T11:23:20Z",
         "updated_at": "2023-11-17T11:23:20Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.12/LimbusLocalize_BIE_v0.6.12.7z"
