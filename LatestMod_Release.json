@@ -62,7 +62,7 @@
       "content_type": "application/x-7z-compressed",
       "state": "uploaded",
       "size": 1028781,
-      "download_count": 1255,
+      "download_count": 1523,
       "created_at": "2023-12-28T15:32:34Z",
       "updated_at": "2023-12-28T15:32:35Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.18/LimbusLocalize_BIE_v0.6.18.7z"
@@ -70,5 +70,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/tarball/v0.6.18",
   "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/zipball/v0.6.18",
-  "body": "# v0.6.18\r\n- 汉化内容跟进\r\n  - 12月28日 20区的奇迹 活动汉化内容更新\r\n  - 其他内容跟进\r\n# 下载\r\n- LimbusLocalize_BIE_v0.6.18.7z 全量包\r\n"
+  "body": "# v0.6.18\r\n- 汉化内容跟进\r\n  - 12月28日 20区的奇迹 活动汉化内容更新\r\n  - 其他内容跟进\r\n# 下载\r\n- LimbusLocalize_BIE_v0.6.18.7z 全量包\r\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/135286749/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 1,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
