@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/140894011",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/140894011/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/140894011/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v0.6.3",
-  "id": 140894011,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/153259475",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/153259475/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/153259475/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v0.6.4",
+  "id": 153259475,
   "author": {
     "login": "ZengXiaoPi",
     "id": 102937102,
@@ -24,19 +24,19 @@
     "type": "User",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJRBtb84IZd87",
-  "tag_name": "v0.6.3",
+  "node_id": "RE_kwDOJRBtb84JIo3T",
+  "tag_name": "v0.6.4",
   "target_commitish": "master",
-  "name": "v0.6.3",
+  "name": "v0.6.4",
   "draft": false,
   "prerelease": false,
-  "created_at": "2024-02-07T06:28:31Z",
-  "published_at": "2024-02-09T13:14:54Z",
+  "created_at": "2024-04-29T13:37:24Z",
+  "published_at": "2024-04-30T15:23:17Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/150706760",
-      "id": 150706760,
-      "node_id": "RA_kwDOJRBtb84I-5pI",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/165159840",
+      "id": 165159840,
+      "node_id": "RA_kwDOJRBtb84J2COg",
       "name": "LLC_MOD_Toolbox.7z",
       "label": null,
       "uploader": {
@@ -61,16 +61,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1747105,
-      "download_count": 12193,
-      "created_at": "2024-02-09T13:26:59Z",
-      "updated_at": "2024-02-09T13:27:01Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.6.3/LLC_MOD_Toolbox.7z"
+      "size": 1747109,
+      "download_count": 164,
+      "created_at": "2024-04-30T15:21:45Z",
+      "updated_at": "2024-04-30T15:21:47Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.6.4/LLC_MOD_Toolbox.7z"
     },
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/150706759",
-      "id": 150706759,
-      "node_id": "RA_kwDOJRBtb84I-5pH",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/165159900",
+      "id": 165159900,
+      "node_id": "RA_kwDOJRBtb84J2CPc",
       "name": "LLC_MOD_Toolbox_SFX.exe",
       "label": null,
       "uploader": {
@@ -93,28 +93,16 @@
         "type": "User",
         "site_admin": false
       },
-      "content_type": "application/x-msdownload",
+      "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1963681,
-      "download_count": 4833,
-      "created_at": "2024-02-09T13:26:55Z",
-      "updated_at": "2024-02-09T13:26:59Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.6.3/LLC_MOD_Toolbox_SFX.exe"
+      "size": 1963685,
+      "download_count": 65,
+      "created_at": "2024-04-30T15:22:07Z",
+      "updated_at": "2024-04-30T15:22:09Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.6.4/LLC_MOD_Toolbox_SFX.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v0.6.3",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v0.6.3",
-  "body": "代表LLT对各位说一声新年快乐。\r\n<s>我祝全天下的女孩加一个好男孩两小口永远在一块</s>\r\n## 更新日志\r\n- 更新抽卡模拟器功能\r\n## 文件说明\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包\r\n- LLC_MOD_Toolbox.7z 压缩包",
-  "reactions": {
-    "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/140894011/reactions",
-    "total_count": 1,
-    "+1": 0,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 1,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v0.6.4",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v0.6.4",
+  "body": "本次更新由1029完成。\r\n## 更新日志\r\n- 在手动安装页面提供更人性化的下载链接（来自天翼云盘）\r\n## 文件说明\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包\r\n- LLC_MOD_Toolbox.7z 压缩包"
 }
