@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/153259475",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/153259475/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/153259475/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v0.6.4",
-  "id": 153259475,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/163356512",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/163356512/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/163356512/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v0.6.8",
+  "id": 163356512,
   "author": {
     "login": "ZengXiaoPi",
     "id": 102937102,
@@ -24,19 +24,19 @@
     "type": "User",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJRBtb84JIo3T",
-  "tag_name": "v0.6.4",
+  "node_id": "RE_kwDOJRBtb84JvJ9g",
+  "tag_name": "v0.6.8",
   "target_commitish": "master",
-  "name": "v0.6.4",
+  "name": "v0.6.8 BETA",
   "draft": false,
   "prerelease": false,
-  "created_at": "2024-04-29T13:37:24Z",
-  "published_at": "2024-04-30T15:23:17Z",
+  "created_at": "2024-07-01T13:39:00Z",
+  "published_at": "2024-07-01T13:51:23Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/165159840",
-      "id": 165159840,
-      "node_id": "RA_kwDOJRBtb84J2COg",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/176997622",
+      "id": 176997622,
+      "node_id": "RA_kwDOJRBtb84KjMT2",
       "name": "LLC_MOD_Toolbox.7z",
       "label": null,
       "uploader": {
@@ -61,16 +61,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1747109,
-      "download_count": 11769,
-      "created_at": "2024-04-30T15:21:45Z",
-      "updated_at": "2024-04-30T15:21:47Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.6.4/LLC_MOD_Toolbox.7z"
+      "size": 4502989,
+      "download_count": 220,
+      "created_at": "2024-07-01T13:53:40Z",
+      "updated_at": "2024-07-01T13:54:34Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.6.8/LLC_MOD_Toolbox.7z"
     },
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/165159900",
-      "id": 165159900,
-      "node_id": "RA_kwDOJRBtb84J2CPc",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/176997736",
+      "id": 176997736,
+      "node_id": "RA_kwDOJRBtb84KjMVo",
       "name": "LLC_MOD_Toolbox_SFX.exe",
       "label": null,
       "uploader": {
@@ -93,16 +93,16 @@
         "type": "User",
         "site_admin": false
       },
-      "content_type": "application/octet-stream",
+      "content_type": "application/x-msdownload",
       "state": "uploaded",
-      "size": 1963685,
-      "download_count": 4686,
-      "created_at": "2024-04-30T15:22:07Z",
-      "updated_at": "2024-04-30T15:22:09Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.6.4/LLC_MOD_Toolbox_SFX.exe"
+      "size": 4717005,
+      "download_count": 59,
+      "created_at": "2024-07-01T13:54:34Z",
+      "updated_at": "2024-07-01T13:55:32Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.6.8/LLC_MOD_Toolbox_SFX.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v0.6.4",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v0.6.4",
-  "body": "本次更新由1029完成。\r\n## 更新日志\r\n- 在手动安装页面提供更人性化的下载链接（来自天翼云盘）\r\n## 文件说明\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包\r\n- LLC_MOD_Toolbox.7z 压缩包"
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v0.6.8",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v0.6.8",
+  "body": "**功能尚未完善，目前仅有自动安装功能，若无法使用请发ISSUE**\r\n重构后的完整版预计将在三天内发布。\r\n修复了目前工具箱无法使用的bug，并对UI进行了调整。"
 }
