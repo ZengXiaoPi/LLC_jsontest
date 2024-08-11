@@ -62,7 +62,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 4502989,
-      "download_count": 10806,
+      "download_count": 11551,
       "created_at": "2024-07-01T13:53:40Z",
       "updated_at": "2024-07-01T13:54:34Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.6.8/LLC_MOD_Toolbox.7z"
@@ -96,7 +96,7 @@
       "content_type": "application/x-msdownload",
       "state": "uploaded",
       "size": 4717005,
-      "download_count": 3491,
+      "download_count": 3704,
       "created_at": "2024-07-01T13:54:34Z",
       "updated_at": "2024-07-01T13:55:32Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v0.6.8/LLC_MOD_Toolbox_SFX.exe"
@@ -104,5 +104,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v0.6.8",
   "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v0.6.8",
-  "body": "**功能尚未完善，目前仅有自动安装功能，若无法使用请发ISSUE**\r\n重构后的完整版预计将在三天内发布。\r\n修复了目前工具箱无法使用的bug，并对UI进行了调整。"
+  "body": "**功能尚未完善，目前仅有自动安装功能，若无法使用请发ISSUE**\r\n重构后的完整版预计将在三天内发布。\r\n修复了目前工具箱无法使用的bug，并对UI进行了调整。",
+  "reactions": {
+    "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/163356512/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 1
+  }
 }
