@@ -62,7 +62,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 19397772,
-      "download_count": 4337,
+      "download_count": 7507,
       "created_at": "2024-08-29T13:25:19Z",
       "updated_at": "2024-08-29T13:25:28Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.0.0/LLC_MOD_Toolbox.7z"
@@ -96,7 +96,7 @@
       "content_type": "application/x-msdownload",
       "state": "uploaded",
       "size": 19611788,
-      "download_count": 1700,
+      "download_count": 3250,
       "created_at": "2024-08-29T13:25:28Z",
       "updated_at": "2024-08-29T13:25:34Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.0.0/LLC_MOD_Toolbox_SFX.exe"
@@ -104,5 +104,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v1.0.0",
   "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v1.0.0",
-  "body": "## 前言\r\n各位好，新版工具箱没在三天内到来，但是啊，临近开学季，总算是做出来了这个史诗级大作（对于我自己的），同时也感谢记得保存老师的天才UI，冲刺，冲刺，冲！\r\n## 更新日志\r\n- **重构代码，更改架构为WPF**，前后端分离\r\n- **真正的美化UI！** 新UI由`记得保存`设计，UI base on WPF!\r\n- 启动消耗时间减少\r\n- 大量方法/属性变为static属性，提升性能\r\n- 更换解压库\r\n- 更改寻找游戏目录逻辑\r\n- 更改寻找CurrentDir逻辑\r\n- 恢复灰度测试功能\r\n- 修复在安装时前端软锁的Bug\r\n- 优化安装逻辑\r\n- 修复Mirror Github安装逻辑问题\r\n- 增加两个安装节点\r\n- 优化大部分网络请求，改为异步请求（async）\r\n- 一些不为人知的东西\r\n- 移除了Herobrine\r\n## 新版截图\r\n![image](https://github.com/user-attachments/assets/4bc0b6cf-fe97-42ff-b572-97e2df576287)\r\n![image](https://github.com/user-attachments/assets/f0951fd0-949b-4f2a-89dd-90c405f535e7)\r\n![image](https://github.com/user-attachments/assets/cd92860f-4109-402c-8e0b-16972f6a1530)\r\n## 文件说明\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包\r\n- LLC_MOD_Toolbox.7z 压缩包"
+  "body": "## 前言\r\n各位好，新版工具箱没在三天内到来，但是啊，临近开学季，总算是做出来了这个史诗级大作（对于我自己的），同时也感谢记得保存老师的天才UI，冲刺，冲刺，冲！\r\n## 更新日志\r\n- **重构代码，更改架构为WPF**，前后端分离\r\n- **真正的美化UI！** 新UI由`记得保存`设计，UI base on WPF!\r\n- 启动消耗时间减少\r\n- 大量方法/属性变为static属性，提升性能\r\n- 更换解压库\r\n- 更改寻找游戏目录逻辑\r\n- 更改寻找CurrentDir逻辑\r\n- 恢复灰度测试功能\r\n- 修复在安装时前端软锁的Bug\r\n- 优化安装逻辑\r\n- 修复Mirror Github安装逻辑问题\r\n- 增加两个安装节点\r\n- 优化大部分网络请求，改为异步请求（async）\r\n- 一些不为人知的东西\r\n- 移除了Herobrine\r\n## 新版截图\r\n![image](https://github.com/user-attachments/assets/4bc0b6cf-fe97-42ff-b572-97e2df576287)\r\n![image](https://github.com/user-attachments/assets/f0951fd0-949b-4f2a-89dd-90c405f535e7)\r\n![image](https://github.com/user-attachments/assets/cd92860f-4109-402c-8e0b-16972f6a1530)\r\n## 文件说明\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包\r\n- LLC_MOD_Toolbox.7z 压缩包",
+  "reactions": {
+    "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/172565049/reactions",
+    "total_count": 3,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 2,
+    "eyes": 0
+  }
 }
