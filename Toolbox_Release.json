@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/172565049",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/172565049/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/172565049/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v1.0.0",
-  "id": 172565049,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/174011879",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/174011879/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/174011879/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v1.0.1",
+  "id": 174011879,
   "author": {
     "login": "ZengXiaoPi",
     "id": 102937102,
@@ -24,19 +24,19 @@
     "type": "User",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJRBtb84KSSI5",
-  "tag_name": "v1.0.0",
+  "node_id": "RE_kwDOJRBtb84KXzXn",
+  "tag_name": "v1.0.1",
   "target_commitish": "master",
-  "name": "v1.0.0",
+  "name": "v1.0.1",
   "draft": false,
   "prerelease": false,
-  "created_at": "2024-08-29T13:20:55Z",
-  "published_at": "2024-08-29T13:43:07Z",
+  "created_at": "2024-09-08T12:25:56Z",
+  "published_at": "2024-09-08T12:35:17Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/189107651",
-      "id": 189107651,
-      "node_id": "RA_kwDOJRBtb84LRY3D",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/191234338",
+      "id": 191234338,
+      "node_id": "RA_kwDOJRBtb84LZgEi",
       "name": "LLC_MOD_Toolbox.7z",
       "label": null,
       "uploader": {
@@ -61,16 +61,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 19397772,
-      "download_count": 8359,
-      "created_at": "2024-08-29T13:25:19Z",
-      "updated_at": "2024-08-29T13:25:28Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.0.0/LLC_MOD_Toolbox.7z"
+      "size": 19745351,
+      "download_count": 180,
+      "created_at": "2024-09-08T12:31:52Z",
+      "updated_at": "2024-09-08T12:33:49Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.0.1/LLC_MOD_Toolbox.7z"
     },
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/189107684",
-      "id": 189107684,
-      "node_id": "RA_kwDOJRBtb84LRY3k",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/191234577",
+      "id": 191234577,
+      "node_id": "RA_kwDOJRBtb84LZgIR",
       "name": "LLC_MOD_Toolbox_SFX.exe",
       "label": null,
       "uploader": {
@@ -95,26 +95,14 @@
       },
       "content_type": "application/x-msdownload",
       "state": "uploaded",
-      "size": 19611788,
-      "download_count": 3617,
-      "created_at": "2024-08-29T13:25:28Z",
-      "updated_at": "2024-08-29T13:25:34Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.0.0/LLC_MOD_Toolbox_SFX.exe"
+      "size": 19959367,
+      "download_count": 87,
+      "created_at": "2024-09-08T12:33:49Z",
+      "updated_at": "2024-09-08T12:34:03Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.0.1/LLC_MOD_Toolbox_SFX.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v1.0.0",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v1.0.0",
-  "body": "## 前言\r\n各位好，新版工具箱没在三天内到来，但是啊，临近开学季，总算是做出来了这个史诗级大作（对于我自己的），同时也感谢记得保存老师的天才UI，冲刺，冲刺，冲！\r\n## 更新日志\r\n- **重构代码，更改架构为WPF**，前后端分离\r\n- **真正的美化UI！** 新UI由`记得保存`设计，UI base on WPF!\r\n- 启动消耗时间减少\r\n- 大量方法/属性变为static属性，提升性能\r\n- 更换解压库\r\n- 更改寻找游戏目录逻辑\r\n- 更改寻找CurrentDir逻辑\r\n- 恢复灰度测试功能\r\n- 修复在安装时前端软锁的Bug\r\n- 优化安装逻辑\r\n- 修复Mirror Github安装逻辑问题\r\n- 增加两个安装节点\r\n- 优化大部分网络请求，改为异步请求（async）\r\n- 一些不为人知的东西\r\n- 移除了Herobrine\r\n## 新版截图\r\n![image](https://github.com/user-attachments/assets/4bc0b6cf-fe97-42ff-b572-97e2df576287)\r\n![image](https://github.com/user-attachments/assets/f0951fd0-949b-4f2a-89dd-90c405f535e7)\r\n![image](https://github.com/user-attachments/assets/cd92860f-4109-402c-8e0b-16972f6a1530)\r\n## 文件说明\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包\r\n- LLC_MOD_Toolbox.7z 压缩包",
-  "reactions": {
-    "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/172565049/reactions",
-    "total_count": 3,
-    "+1": 0,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 1,
-    "rocket": 2,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v1.0.1",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v1.0.1",
+  "body": "## 更新日志\r\n- **抽卡模拟器**：孩子们，我回来了！\r\n  - 这不仅是原先抽卡模拟器的复活，更是升级！\r\n    - 优化代码实现方式\r\n    - 增加显示动画\r\n    - 移动初始化代码（这样启动的时候就不会那么卡）\r\n    - 优化文字输出\r\n    - 抽卡模拟器相关代码多达13000多字（相当于我不知道多少篇作文，对了，我作文还没写！！）\r\n    - 算了，不知道还有什么了，自己下载看看吧！\r\n    - （我也不知道这东西为什么能跑起来）\r\n  - 美术 by 玉佩（拯救了没有艺术细胞的我）\r\n- 恢复模组开启功能，并优化相关代码\r\n## 截图\r\n![image](https://github.com/user-attachments/assets/3464beb0-ac75-4c18-b84a-1d1cee773800)\r\n![image](https://github.com/user-attachments/assets/f23ff2b3-cecc-4389-9d9d-59d30566ba0a)\r\n##文件说明\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包\r\n- LLC_MOD_Toolbox.7z 压缩包"
 }
