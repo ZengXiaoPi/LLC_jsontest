@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/175088494",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/175088494/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/175088494/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/tag/v0.6.50",
-  "id": 175088494,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/176027588",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/176027588/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/176027588/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/tag/v0.6.51",
+  "id": 176027588,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -24,20 +24,20 @@
     "type": "Bot",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJEfP9s4Kb6Nu",
-  "tag_name": "v0.6.50",
+  "node_id": "RE_kwDOJEfP9s4KfffE",
+  "tag_name": "v0.6.51",
   "target_commitish": "main",
-  "name": "v0.6.50",
+  "name": "v0.6.51",
   "draft": false,
   "prerelease": false,
-  "created_at": "2024-09-14T17:47:54Z",
-  "published_at": "2024-09-14T17:50:28Z",
+  "created_at": "2024-09-20T04:40:23Z",
+  "published_at": "2024-09-20T04:42:52Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/assets/192632331",
-      "id": 192632331,
-      "node_id": "RA_kwDOJEfP9s4Le1YL",
-      "name": "LimbusLocalize_BIE_v0.6.50.7z",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/assets/193756859",
+      "id": 193756859,
+      "node_id": "RA_kwDOJEfP9s4LjH67",
+      "name": "LimbusLocalize_BIE_v0.6.51.7z",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -61,14 +61,14 @@
       },
       "content_type": "application/x-7z-compressed",
       "state": "uploaded",
-      "size": 1424285,
-      "download_count": 1494,
-      "created_at": "2024-09-14T17:50:28Z",
-      "updated_at": "2024-09-14T17:50:28Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.50/LimbusLocalize_BIE_v0.6.50.7z"
+      "size": 1428355,
+      "download_count": 0,
+      "created_at": "2024-09-20T04:42:52Z",
+      "updated_at": "2024-09-20T04:42:53Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.51/LimbusLocalize_BIE_v0.6.51.7z"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/tarball/v0.6.50",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/zipball/v0.6.50",
-  "body": "# v0.6.50\r\n- 汉化内容跟进\r\n  - 9月15日 之前模组的累积更新\r\n  - 其他累积更新\r\n# 下载\r\n- LimbusLocalize_BIE_v0.6.50.7z 全量包\r\n"
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/tarball/v0.6.51",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/zipball/v0.6.51",
+  "body": "# v0.6.51\r\n- 汉化内容跟进\r\n  - 9月20日 之前模组的累积更新\r\n  - 其他累积更新\r\n- 09-20 ParaToGitWork & v0.6.51\r\n# 下载\r\n- LimbusLocalize_BIE_v0.6.51.7z 全量包\r\n"
 }
