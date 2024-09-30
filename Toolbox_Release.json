@@ -62,7 +62,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 19745351,
-      "download_count": 7440,
+      "download_count": 7602,
       "created_at": "2024-09-08T12:31:52Z",
       "updated_at": "2024-09-08T12:33:49Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.0.1/LLC_MOD_Toolbox.7z"
@@ -96,7 +96,7 @@
       "content_type": "application/x-msdownload",
       "state": "uploaded",
       "size": 19959367,
-      "download_count": 2825,
+      "download_count": 2917,
       "created_at": "2024-09-08T12:33:49Z",
       "updated_at": "2024-09-08T12:34:03Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.0.1/LLC_MOD_Toolbox_SFX.exe"
@@ -107,8 +107,8 @@
   "body": "## 更新日志\r\n- **抽卡模拟器**：孩子们，我回来了！\r\n  - 这不仅是原先抽卡模拟器的复活，更是升级！\r\n    - 优化代码实现方式\r\n    - 增加显示动画\r\n    - 移动初始化代码（这样启动的时候就不会那么卡）\r\n    - 优化文字输出\r\n    - 抽卡模拟器相关代码多达13000多字（相当于我不知道多少篇作文，对了，我作文还没写！！）\r\n    - 算了，不知道还有什么了，自己下载看看吧！\r\n    - （我也不知道这东西为什么能跑起来）\r\n  - 美术 by 玉佩（拯救了没有艺术细胞的我）\r\n- 恢复模组开启功能，并优化相关代码\r\n## 截图\r\n![image](https://github.com/user-attachments/assets/3464beb0-ac75-4c18-b84a-1d1cee773800)\r\n![image](https://github.com/user-attachments/assets/f23ff2b3-cecc-4389-9d9d-59d30566ba0a)\r\n##文件说明\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包\r\n- LLC_MOD_Toolbox.7z 压缩包",
   "reactions": {
     "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/174011879/reactions",
-    "total_count": 8,
-    "+1": 5,
+    "total_count": 9,
+    "+1": 6,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
