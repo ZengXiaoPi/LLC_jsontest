@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/174011879",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/174011879/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/174011879/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v1.0.1",
-  "id": 174011879,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/178209355",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/178209355/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/178209355/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v1.0.2",
+  "id": 178209355,
   "author": {
     "login": "ZengXiaoPi",
     "id": 102937102,
@@ -24,19 +24,19 @@
     "type": "User",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJRBtb84KXzXn",
-  "tag_name": "v1.0.1",
+  "node_id": "RE_kwDOJRBtb84Kn0JL",
+  "tag_name": "v1.0.2",
   "target_commitish": "master",
-  "name": "v1.0.1",
+  "name": "v1.0.2",
   "draft": false,
   "prerelease": false,
-  "created_at": "2024-09-08T12:25:56Z",
-  "published_at": "2024-09-08T12:35:17Z",
+  "created_at": "2024-10-03T12:35:05Z",
+  "published_at": "2024-10-03T13:29:26Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/191234338",
-      "id": 191234338,
-      "node_id": "RA_kwDOJRBtb84LZgEi",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/196651292",
+      "id": 196651292,
+      "node_id": "RA_kwDOJRBtb84LuKkc",
       "name": "LLC_MOD_Toolbox.7z",
       "label": null,
       "uploader": {
@@ -61,16 +61,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 19745351,
-      "download_count": 9759,
-      "created_at": "2024-09-08T12:31:52Z",
-      "updated_at": "2024-09-08T12:33:49Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.0.1/LLC_MOD_Toolbox.7z"
+      "size": 19746089,
+      "download_count": 1411,
+      "created_at": "2024-10-03T13:27:40Z",
+      "updated_at": "2024-10-03T13:28:32Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.0.2/LLC_MOD_Toolbox.7z"
     },
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/191234577",
-      "id": 191234577,
-      "node_id": "RA_kwDOJRBtb84LZgIR",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/196651451",
+      "id": 196651451,
+      "node_id": "RA_kwDOJRBtb84LuKm7",
       "name": "LLC_MOD_Toolbox_SFX.exe",
       "label": null,
       "uploader": {
@@ -95,26 +95,14 @@
       },
       "content_type": "application/x-msdownload",
       "state": "uploaded",
-      "size": 19959367,
-      "download_count": 3866,
-      "created_at": "2024-09-08T12:33:49Z",
-      "updated_at": "2024-09-08T12:34:03Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.0.1/LLC_MOD_Toolbox_SFX.exe"
+      "size": 19960105,
+      "download_count": 469,
+      "created_at": "2024-10-03T13:28:32Z",
+      "updated_at": "2024-10-03T13:29:20Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.0.2/LLC_MOD_Toolbox_SFX.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v1.0.1",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v1.0.1",
-  "body": "## 更新日志\r\n- **抽卡模拟器**：孩子们，我回来了！\r\n  - 这不仅是原先抽卡模拟器的复活，更是升级！\r\n    - 优化代码实现方式\r\n    - 增加显示动画\r\n    - 移动初始化代码（这样启动的时候就不会那么卡）\r\n    - 优化文字输出\r\n    - 抽卡模拟器相关代码多达13000多字（相当于我不知道多少篇作文，对了，我作文还没写！！）\r\n    - 算了，不知道还有什么了，自己下载看看吧！\r\n    - （我也不知道这东西为什么能跑起来）\r\n  - 美术 by 玉佩（拯救了没有艺术细胞的我）\r\n- 恢复模组开启功能，并优化相关代码\r\n## 截图\r\n![image](https://github.com/user-attachments/assets/3464beb0-ac75-4c18-b84a-1d1cee773800)\r\n![image](https://github.com/user-attachments/assets/f23ff2b3-cecc-4389-9d9d-59d30566ba0a)\r\n##文件说明\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包\r\n- LLC_MOD_Toolbox.7z 压缩包",
-  "reactions": {
-    "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/174011879/reactions",
-    "total_count": 9,
-    "+1": 6,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 1,
-    "confused": 0,
-    "heart": 1,
-    "rocket": 1,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v1.0.2",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v1.0.2",
+  "body": "## 介绍\r\n本版本主要为Bug修复。\r\n\r\n## 更新日志\r\n- 优化Steam寻路方式，一定程度上解决无法找到路径情况 （#60）（第一个组外PR！）\r\n- 更改节点文件，使API同样可配置（后续会增加开发者文档，向社区开发者开放）\r\n- 修复卸载不会删除`winhttp.dll.disabled`的问题\r\n- 增加`Cloudflare`API节点与下载节点，`电信云盘`下载节点\r\n- 尝试修复抽卡模拟器缺行问题\r\n- 修复工具箱能够被最大化导致UI错乱的问题\r\n\r\n## 文件说明\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包\r\n- LLC_MOD_Toolbox.7z 压缩包"
 }
