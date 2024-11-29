@@ -64,7 +64,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 19746089,
-      "download_count": 21018,
+      "download_count": 21469,
       "created_at": "2024-10-03T13:27:40Z",
       "updated_at": "2024-10-03T13:28:32Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.0.2/LLC_MOD_Toolbox.7z"
@@ -99,7 +99,7 @@
       "content_type": "application/x-msdownload",
       "state": "uploaded",
       "size": 19960105,
-      "download_count": 8700,
+      "download_count": 8904,
       "created_at": "2024-10-03T13:28:32Z",
       "updated_at": "2024-10-03T13:29:20Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.0.2/LLC_MOD_Toolbox_SFX.exe"
@@ -107,5 +107,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v1.0.2",
   "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v1.0.2",
-  "body": "## 介绍\r\n本版本主要为Bug修复。\r\n\r\n## 更新日志\r\n- 优化Steam寻路方式，一定程度上解决无法找到路径情况 （#60）（第一个组外PR！）\r\n- 更改节点文件，使API同样可配置（后续会增加开发者文档，向社区开发者开放）\r\n- 修复卸载不会删除`winhttp.dll.disabled`的问题\r\n- 增加`Cloudflare`API节点与下载节点，`电信云盘`下载节点\r\n- 尝试修复抽卡模拟器缺行问题\r\n- 修复工具箱能够被最大化导致UI错乱的问题\r\n\r\n## 文件说明\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包\r\n- LLC_MOD_Toolbox.7z 压缩包"
+  "body": "## 介绍\r\n本版本主要为Bug修复。\r\n\r\n## 更新日志\r\n- 优化Steam寻路方式，一定程度上解决无法找到路径情况 （#60）（第一个组外PR！）\r\n- 更改节点文件，使API同样可配置（后续会增加开发者文档，向社区开发者开放）\r\n- 修复卸载不会删除`winhttp.dll.disabled`的问题\r\n- 增加`Cloudflare`API节点与下载节点，`电信云盘`下载节点\r\n- 尝试修复抽卡模拟器缺行问题\r\n- 修复工具箱能够被最大化导致UI错乱的问题\r\n\r\n## 文件说明\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包\r\n- LLC_MOD_Toolbox.7z 压缩包",
+  "reactions": {
+    "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/178209355/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
