@@ -65,7 +65,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 1590740,
-        "download_count": 3267,
+        "download_count": 3385,
         "created_at": "2024-11-29T12:14:24Z",
         "updated_at": "2024-11-29T12:14:24Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.59/LimbusLocalize_BIE_v0.6.59.7z"
@@ -76,8 +76,8 @@
     "body": "# v0.6.59\r\n- MD5 L10N Update\r\n - 新功能：将罪人在战斗内的语音文本翻译以头顶气泡的形式呈现\r\n   - [效果预览](https://www.bilibili.com/opus/1002646650546552867)\r\n   - [配置指引](https://www.zeroasso.top/docs/configuration/togglefeature/#ShowDialog)\r\n- 11-29 ParaToGitWork & v0.6.59\r\n# 下载\r\n- LimbusLocalize_BIE_v0.6.59.7z 全量包\r\n",
     "reactions": {
       "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/188191981/reactions",
-      "total_count": 6,
-      "+1": 6,
+      "total_count": 7,
+      "+1": 7,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
