@@ -65,7 +65,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 1604185,
-        "download_count": 0,
+        "download_count": 588,
         "created_at": "2024-12-19T12:45:38Z",
         "updated_at": "2024-12-19T12:45:38Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.62/LimbusLocalize_BIE_v0.6.62.7z"
@@ -73,7 +73,19 @@
     ],
     "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/tarball/v0.6.62",
     "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/zipball/v0.6.62",
-    "body": "# v0.6.62\r\n- 翻译内容最新进度跟进\r\n  - 桑丘变体硬血9式-鞭 改为 桑丘变体硬血6式-鞭\r\n# 下载\r\n- LimbusLocalize_BIE_v0.6.62.7z 全量包\r\n"
+    "body": "# v0.6.62\r\n- 翻译内容最新进度跟进\r\n  - 桑丘变体硬血9式-鞭 改为 桑丘变体硬血6式-鞭\r\n# 下载\r\n- LimbusLocalize_BIE_v0.6.62.7z 全量包\r\n",
+    "reactions": {
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/191649225/reactions",
+      "total_count": 2,
+      "+1": 2,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
   },
   {
     "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/190469113",
@@ -1593,7 +1605,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 1343560,
-        "download_count": 2465,
+        "download_count": 2466,
         "created_at": "2024-07-11T15:12:38Z",
         "updated_at": "2024-07-11T15:12:38Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.43/LimbusLocalize_BIE_v0.6.43.7z"
