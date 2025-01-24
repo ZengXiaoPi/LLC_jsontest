@@ -65,7 +65,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 1771033,
-        "download_count": 3957,
+        "download_count": 4349,
         "created_at": "2025-01-10T13:04:46Z",
         "updated_at": "2025-01-10T13:04:46Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.64/LimbusLocalize_BIE_v0.6.64.7z"
@@ -76,8 +76,8 @@
     "body": "# v0.6.64\r\n- 翻译内容最新进度跟进\r\n  - 句点事务所人格 以及 瓦尔普吉斯之夜 的翻译更新\r\n  - 其他翻译内容最新进度跟进\r\n# 下载\r\n- LimbusLocalize_BIE_v0.6.64.7z 全量包\r\n",
     "reactions": {
       "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/194110255/reactions",
-      "total_count": 1,
-      "+1": 1,
+      "total_count": 2,
+      "+1": 2,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
@@ -153,7 +153,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 1754981,
-        "download_count": 1721,
+        "download_count": 1722,
         "created_at": "2024-12-27T16:10:05Z",
         "updated_at": "2024-12-27T16:10:06Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.63/LimbusLocalize_BIE_v0.6.63.7z"
@@ -2121,7 +2121,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 1318651,
-        "download_count": 1879,
+        "download_count": 1880,
         "created_at": "2024-06-15T13:17:43Z",
         "updated_at": "2024-06-15T13:17:43Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.39/LimbusLocalize_BIE_v0.6.39.7z"
