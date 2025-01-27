@@ -64,7 +64,7 @@
       "content_type": "application/x-7z-compressed",
       "state": "uploaded",
       "size": 1769879,
-      "download_count": 1199,
+      "download_count": 2752,
       "created_at": "2025-01-25T15:05:02Z",
       "updated_at": "2025-01-25T15:05:03Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.65/LimbusLocalize_BIE_v0.6.65.7z"
@@ -72,5 +72,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/tarball/v0.6.65",
   "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/zipball/v0.6.65",
-  "body": "# v0.6.65\r\n- 本周更新后错误的解决\r\n  - 解决了技能名显示错误的问题\r\n  - 解决了零协会图标不显示的问题\r\n- 翻译内容最新进度跟进\r\n  - 最新间章剧情与人格的翻译更新\r\n# 下载\r\n- LimbusLocalize_BIE_v0.6.65.7z 全量包\r\n"
+  "body": "# v0.6.65\r\n- 本周更新后错误的解决\r\n  - 解决了技能名显示错误的问题\r\n  - 解决了零协会图标不显示的问题\r\n- 翻译内容最新进度跟进\r\n  - 最新间章剧情与人格的翻译更新\r\n# 下载\r\n- LimbusLocalize_BIE_v0.6.65.7z 全量包\r\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/196776794/reactions",
+    "total_count": 5,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 5,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
