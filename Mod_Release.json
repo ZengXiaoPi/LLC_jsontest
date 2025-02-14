@@ -65,7 +65,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 2577931,
-        "download_count": 1296,
+        "download_count": 2131,
         "created_at": "2025-02-11T16:32:25Z",
         "updated_at": "2025-02-11T16:32:26Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.7.0/LimbusLocalize_BIE_v0.7.0.7z"
@@ -73,7 +73,19 @@
     ],
     "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/tarball/v0.7.0",
     "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/zipball/v0.7.0",
-    "body": "# v0.7.0\r\n- 拆分资源和代码"
+    "body": "# v0.7.0\r\n- 拆分资源和代码",
+    "reactions": {
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/199656395/reactions",
+      "total_count": 1,
+      "+1": 1,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
   },
   {
     "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/199173003",
@@ -141,7 +153,7 @@
         "content_type": "application/x-7z-compressed",
         "state": "uploaded",
         "size": 1781539,
-        "download_count": 2361,
+        "download_count": 2366,
         "created_at": "2025-02-08T04:17:17Z",
         "updated_at": "2025-02-08T04:17:18Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.6.67/LimbusLocalize_BIE_v0.6.67.7z"
