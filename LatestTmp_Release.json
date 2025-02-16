@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/196138944",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/196138944/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/196138944/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/tag/250123",
-  "id": 196138944,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/200526432",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/200526432/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/200526432/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/tag/250215",
+  "id": 200526432,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJRBiiM4LsNfA",
-  "tag_name": "250123",
+  "node_id": "RE_kwDOJRBiiM4L88pg",
+  "tag_name": "250215",
   "target_commitish": "master",
-  "name": "250123",
+  "name": "250215",
   "draft": false,
   "prerelease": false,
-  "created_at": "2025-01-22T16:54:58Z",
-  "published_at": "2025-01-22T17:02:41Z",
+  "created_at": "2025-02-15T12:51:01Z",
+  "published_at": "2025-02-15T14:12:21Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/assets/222496994",
-      "id": 222496994,
-      "node_id": "RA_kwDOJRBiiM4NQwji",
-      "name": "tmpchinesefont_BIE_250123.7z",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/assets/229400651",
+      "id": 229400651,
+      "node_id": "RA_kwDOJRBiiM4NrGBL",
+      "name": "tmpchinesefont_BIE_250215.7z",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -63,14 +63,14 @@
       },
       "content_type": "binary/octet-stream",
       "state": "uploaded",
-      "size": 27443076,
-      "download_count": 12220,
-      "created_at": "2025-01-22T17:33:46Z",
-      "updated_at": "2025-01-22T17:33:48Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/download/250123/tmpchinesefont_BIE_250123.7z"
+      "size": 32760154,
+      "download_count": 486,
+      "created_at": "2025-02-15T14:12:22Z",
+      "updated_at": "2025-02-15T14:12:23Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_ChineseFontAsset/releases/download/250215/tmpchinesefont_BIE_250215.7z"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/tarball/250123",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/zipball/250123",
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/tarball/250215",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_ChineseFontAsset/zipball/250215",
   "body": ""
 }
