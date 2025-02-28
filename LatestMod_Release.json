@@ -64,7 +64,7 @@
       "content_type": "application/x-7z-compressed",
       "state": "uploaded",
       "size": 3293739,
-      "download_count": 3155,
+      "download_count": 3383,
       "created_at": "2025-02-21T14:53:35Z",
       "updated_at": "2025-02-21T14:53:35Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/v0.7.2/LimbusLocalize_BIE_v0.7.2.7z"
@@ -75,8 +75,8 @@
   "body": "# v0.7.2\r\n- 优化了字体表现",
   "reactions": {
     "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/201695091/reactions",
-    "total_count": 1,
-    "+1": 1,
+    "total_count": 2,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
