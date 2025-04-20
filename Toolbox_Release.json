@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/210525677",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/210525677/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/210525677/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v1.1.0",
-  "id": 210525677,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/213452977",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/213452977/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/213452977/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v1.1.1",
+  "id": 213452977,
   "author": {
     "login": "ZengXiaoPi",
     "id": 102937102,
@@ -25,19 +25,19 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJRBtb84MjF3t",
-  "tag_name": "v1.1.0",
+  "node_id": "RE_kwDOJRBtb84MuQix",
+  "tag_name": "v1.1.1",
   "target_commitish": "master",
-  "name": "v1.1.0",
+  "name": "v1.1.1",
   "draft": false,
   "prerelease": false,
-  "created_at": "2025-04-04T18:17:51Z",
-  "published_at": "2025-04-05T05:13:16Z",
+  "created_at": "2025-04-19T05:00:02Z",
+  "published_at": "2025-04-19T05:41:10Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/243727260",
-      "id": 243727260,
-      "node_id": "RA_kwDOJRBtb84Ohvuc",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/247676317",
+      "id": 247676317,
+      "node_id": "RA_kwDOJRBtb84Owz2d",
       "name": "LLC_MOD_Toolbox.7z",
       "label": null,
       "uploader": {
@@ -63,16 +63,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 20066995,
-      "download_count": 4241,
-      "created_at": "2025-04-05T04:37:47Z",
-      "updated_at": "2025-04-05T04:37:53Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.1.0/LLC_MOD_Toolbox.7z"
+      "size": 20077000,
+      "download_count": 1320,
+      "created_at": "2025-04-19T05:40:07Z",
+      "updated_at": "2025-04-19T05:40:32Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.1.1/LLC_MOD_Toolbox.7z"
     },
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/243727254",
-      "id": 243727254,
-      "node_id": "RA_kwDOJRBtb84OhvuW",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/247676346",
+      "id": 247676346,
+      "node_id": "RA_kwDOJRBtb84Owz26",
       "name": "LLC_MOD_Toolbox_SFX.exe",
       "label": null,
       "uploader": {
@@ -98,26 +98,14 @@
       },
       "content_type": "application/x-msdownload",
       "state": "uploaded",
-      "size": 20281011,
-      "download_count": 1277,
-      "created_at": "2025-04-05T04:37:40Z",
-      "updated_at": "2025-04-05T04:37:47Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.1.0/LLC_MOD_Toolbox_SFX.exe"
+      "size": 20291016,
+      "download_count": 301,
+      "created_at": "2025-04-19T05:40:54Z",
+      "updated_at": "2025-04-19T05:41:06Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.1.1/LLC_MOD_Toolbox_SFX.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v1.1.0",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v1.1.0",
-  "body": "感谢各位对于零协会的一贯支持。\r\n对未来怀有期骥是我们的秉性，我们是彼此在这片虚无的星海中的锚点。\r\n## 介绍 _NEW FEATURE_\r\n- [重要]兼容**新版**汉化补丁，并完成自动化流程。\r\n  - _[IMPORTANT]Compatible with the **new version** of LLC plugin and complete the automation process._\r\n- 增加Cloudflare CDN下载/API节点。现在，你可以通过[cdn.zeroasso.top](https://cdn.zeroasso.top)访问附带Cloudflare CDN的官网。此功能用于改善**海外华侨**体验。它不适合**国内用户**。\r\n  - _Added Cloudflare CDN download & API nodes. Now you can access offical site with Cloudflare CDN through [cdn.zeroasso.top](https://cdn.zeroasso.top). This feature is used to improve the **overseas Chinese** experience.It is not suitable for **domestic users**._\r\n- 现在，字体也需要进行哈希验证。\r\n  - _Now, fonts also need to be hashed to verify that they are the original files._\r\n- **未经捕捉**的异常现在会被统一捕捉并统一报错。（来自#136）\r\n  - _**Uncaught** exceptions are now handled and reported uniformly.(From #136)_\r\n- 删除**手动安装**与**文件覆盖**功能的草稿。\r\n  - _Delete **Manual Installation** and **File Overwrite** feature's draft._\r\n- 删除**模组开关**功能。\r\n  - _Delete **Plugin Switch** feature._\r\n- 在检测到**旧版BepInEx模组**时，会要求进行卸载。\r\n  - _When an **old version of BepInEx plugin** is detected, Toolbox will ask you to uninstall it._\r\n- 修复大量已知问题。\r\n  - _Fixed lots of known issues._\r\n- <small>~~移除了Herobrine。~~</small>\r\n  - <small>~~Remove Kal'tsit.~~</small>\r\n## 文件说明 _FILE EXPLANATION_\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包 | Self-Unarchive ZIP\r\n- LLC_MOD_Toolbox.7z 压缩包 | ZIP",
-  "reactions": {
-    "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/210525677/reactions",
-    "total_count": 7,
-    "+1": 5,
-    "-1": 0,
-    "laugh": 2,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v1.1.1",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v1.1.1",
+  "body": "感谢各位对于零协会的一贯支持。\r\n## 介绍 _NEW FEATURE_\r\n- [重要] 当旧版字体结构存在时，自动适配为**新版**字体结构。\r\n- 尝试修复#137，感谢来自[NO60-HASH](https://github.com/NO60-HASH)的彩蛋载入代码。\r\n- 分离Logger至单独类。\r\n- ~~移除了凯尔希。~~\r\n## 文件说明 _FILE EXPLANATION_\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包 | Self-Unarchive ZIP\r\n- LLC_MOD_Toolbox.7z 压缩包 | ZIP"
 }
