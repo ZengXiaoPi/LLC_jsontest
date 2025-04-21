@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/213452977",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/213452977/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/213452977/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v1.1.1",
-  "id": 213452977,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/213557678",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/213557678/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/213557678/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v1.1.2",
+  "id": 213557678,
   "author": {
     "login": "ZengXiaoPi",
     "id": 102937102,
@@ -25,19 +25,19 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJRBtb84MuQix",
-  "tag_name": "v1.1.1",
+  "node_id": "RE_kwDOJRBtb84MuqGu",
+  "tag_name": "v1.1.2",
   "target_commitish": "master",
-  "name": "v1.1.1",
+  "name": "v1.1.2",
   "draft": false,
   "prerelease": false,
-  "created_at": "2025-04-19T05:00:02Z",
-  "published_at": "2025-04-19T05:41:10Z",
+  "created_at": "2025-04-20T14:00:12Z",
+  "published_at": "2025-04-20T14:16:04Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/247676317",
-      "id": 247676317,
-      "node_id": "RA_kwDOJRBtb84Owz2d",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/247930599",
+      "id": 247930599,
+      "node_id": "RA_kwDOJRBtb84Oxx7n",
       "name": "LLC_MOD_Toolbox.7z",
       "label": null,
       "uploader": {
@@ -63,16 +63,16 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 20077000,
-      "download_count": 1320,
-      "created_at": "2025-04-19T05:40:07Z",
-      "updated_at": "2025-04-19T05:40:32Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.1.1/LLC_MOD_Toolbox.7z"
+      "size": 20074996,
+      "download_count": 293,
+      "created_at": "2025-04-20T14:15:21Z",
+      "updated_at": "2025-04-20T14:15:48Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.1.2/LLC_MOD_Toolbox.7z"
     },
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/247676346",
-      "id": 247676346,
-      "node_id": "RA_kwDOJRBtb84Owz26",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/247930698",
+      "id": 247930698,
+      "node_id": "RA_kwDOJRBtb84Oxx9K",
       "name": "LLC_MOD_Toolbox_SFX.exe",
       "label": null,
       "uploader": {
@@ -98,14 +98,14 @@
       },
       "content_type": "application/x-msdownload",
       "state": "uploaded",
-      "size": 20291016,
-      "download_count": 301,
-      "created_at": "2025-04-19T05:40:54Z",
-      "updated_at": "2025-04-19T05:41:06Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.1.1/LLC_MOD_Toolbox_SFX.exe"
+      "size": 20289012,
+      "download_count": 61,
+      "created_at": "2025-04-20T14:15:48Z",
+      "updated_at": "2025-04-20T14:16:00Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.1.2/LLC_MOD_Toolbox_SFX.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v1.1.1",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v1.1.1",
-  "body": "感谢各位对于零协会的一贯支持。\r\n## 介绍 _NEW FEATURE_\r\n- [重要] 当旧版字体结构存在时，自动适配为**新版**字体结构。\r\n- 尝试修复#137，感谢来自[NO60-HASH](https://github.com/NO60-HASH)的彩蛋载入代码。\r\n- 分离Logger至单独类。\r\n- ~~移除了凯尔希。~~\r\n## 文件说明 _FILE EXPLANATION_\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包 | Self-Unarchive ZIP\r\n- LLC_MOD_Toolbox.7z 压缩包 | ZIP"
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v1.1.2",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v1.1.2",
+  "body": "感谢各位对于零协会的一贯支持。\r\n\r\n## 介绍 _NEW FEATURE_\r\n- [重要]修复了字体无论何时都被要求更新的问题\r\n- 修复了字体不会被哈希检测的问题\r\n- 移除了凯瑟琳\r\n\r\n## 文件说明 _FILE EXPLANATION_\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包 | Self-Unarchive ZIP\r\n- LLC_MOD_Toolbox.7z 压缩包 | ZIP"
 }
