@@ -64,7 +64,7 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 1521963,
-      "download_count": 122,
+      "download_count": 161,
       "created_at": "2025-04-20T13:43:17Z",
       "updated_at": "2025-04-20T13:43:19Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025042007/LimbusLocalize_2025042007.7z"
@@ -75,11 +75,11 @@
   "body": "2025042007版资源更新\n2025042007 version Resource Update",
   "reactions": {
     "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/213555976/reactions",
-    "total_count": 1,
+    "total_count": 2,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 1,
+    "hooray": 2,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
