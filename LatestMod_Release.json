@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/230197811",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/230197811/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/230197811/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/tag/2025070503",
-  "id": 230197811,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/231667167",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/231667167/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/231667167/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/tag/2025071101",
+  "id": 231667167,
   "author": {
     "login": "ZengXiaoPi",
     "id": 102937102,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJEfP9s4NuIoz",
-  "tag_name": "2025070503",
+  "node_id": "RE_kwDOJEfP9s4NzvXf",
+  "tag_name": "2025071101",
   "target_commitish": "main",
-  "name": "2025070503",
+  "name": "2025071101",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2025-07-05T14:42:39Z",
-  "published_at": "2025-07-05T14:43:39Z",
+  "created_at": "2025-07-10T03:26:08Z",
+  "published_at": "2025-07-11T04:29:09Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/assets/270209460",
-      "id": 270209460,
-      "node_id": "RA_kwDOJEfP9s4QGxG0",
-      "name": "LimbusLocalize_2025070503.7z",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/assets/271911061",
+      "id": 271911061,
+      "node_id": "RA_kwDOJEfP9s4QNQiV",
+      "name": "LimbusLocalize_2025071101.7z",
       "label": "",
       "uploader": {
         "login": "ZengXiaoPi",
@@ -64,18 +64,18 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 1737443,
-      "digest": "sha256:c33a20843375ac465e5fa010539f59212a90f75634463e79becdc35dfc93ce6f",
-      "download_count": 278,
-      "created_at": "2025-07-05T14:43:40Z",
-      "updated_at": "2025-07-05T14:43:42Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025070503/LimbusLocalize_2025070503.7z"
+      "size": 1739458,
+      "digest": "sha256:ba50c71ca77880f38d58ed0bc2702a27bf37de6a079ade29951787610a54e4b8",
+      "download_count": 166,
+      "created_at": "2025-07-11T04:29:10Z",
+      "updated_at": "2025-07-11T04:29:11Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025071101/LimbusLocalize_2025071101.7z"
     },
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/assets/270209468",
-      "id": 270209468,
-      "node_id": "RA_kwDOJEfP9s4QGxG8",
-      "name": "LimbusLocalize_2025070503.zip",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/assets/271911072",
+      "id": 271911072,
+      "node_id": "RA_kwDOJEfP9s4QNQig",
+      "name": "LimbusLocalize_2025071101.zip",
       "label": "",
       "uploader": {
         "login": "ZengXiaoPi",
@@ -100,15 +100,15 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 3534805,
-      "digest": "sha256:dd92c1c7ae0c82e50d22411a2aa911aa21527c6476af7cb0ad7357acaeba69ff",
-      "download_count": 301,
-      "created_at": "2025-07-05T14:43:42Z",
-      "updated_at": "2025-07-05T14:43:45Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025070503/LimbusLocalize_2025070503.zip"
+      "size": 3541820,
+      "digest": "sha256:c39686ed87bc36a85f3cb2fccb5f1f5516589904432157446518236df83b61e4",
+      "download_count": 128,
+      "created_at": "2025-07-11T04:29:12Z",
+      "updated_at": "2025-07-11T04:29:14Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025071101/LimbusLocalize_2025071101.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/tarball/2025070503",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/zipball/2025070503",
-  "body": "2025070503版资源更新\n2025070503 version Resource Update"
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/tarball/2025071101",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/zipball/2025071101",
+  "body": "2025071101版资源更新\n2025071101 version Resource Update"
 }
