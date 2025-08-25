@@ -34,7 +34,7 @@
     "immutable": false,
     "prerelease": false,
     "created_at": "2025-08-21T03:20:34Z",
-    "updated_at": "2025-08-21T13:12:40Z",
+    "updated_at": "2025-08-24T19:04:00Z",
     "published_at": "2025-08-21T13:12:35Z",
     "assets": [
       {
@@ -68,7 +68,7 @@
         "state": "uploaded",
         "size": 1790835,
         "digest": "sha256:7ff512d786905eb1d790fec7bc6353aa3066e499a99f3d4642a315d734dace32",
-        "download_count": 221,
+        "download_count": 275,
         "created_at": "2025-08-21T13:12:37Z",
         "updated_at": "2025-08-21T13:12:38Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025082101/LimbusLocalize_2025082101.7z"
@@ -104,7 +104,7 @@
         "state": "uploaded",
         "size": 3657308,
         "digest": "sha256:af40207b969a5bb8caa10c0ced9289bf01173b8a2ee3f8f722708b7801c03d31",
-        "download_count": 232,
+        "download_count": 266,
         "created_at": "2025-08-21T13:12:38Z",
         "updated_at": "2025-08-21T13:12:40Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025082101/LimbusLocalize_2025082101.zip"
@@ -112,7 +112,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/tarball/2025082101",
     "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/zipball/2025082101",
-    "body": "2025082101版资源更新\n2025082101 version Resource Update"
+    "body": "2025082101版资源更新\r\n2025082101 version Resource Update\r\n\r\n-----\r\n\r\n[什么？购买了Mirror酱CDK？点击这里⚡高⚡速⚡下载最新版工具箱！](https://mirrorchyan.com/zh/projects?rid=LLC_MOD_Toolbox&source=LLCGH-release)"
   },
   {
     "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/240876758",
@@ -413,7 +413,7 @@
         "state": "uploaded",
         "size": 1793306,
         "digest": "sha256:2ddb6ccaf0528da965f9399fe1f66918c76b0e86c3419424f61cccf739622baf",
-        "download_count": 297,
+        "download_count": 299,
         "created_at": "2025-08-15T12:24:41Z",
         "updated_at": "2025-08-15T12:24:43Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025081501/LimbusLocalize_2025081501.7z"
@@ -449,7 +449,7 @@
         "state": "uploaded",
         "size": 3656997,
         "digest": "sha256:d62e5fb0cc9d73bec49dce8c0d05de8d650af537edb7a29b559f0beaaf0d9342",
-        "download_count": 318,
+        "download_count": 319,
         "created_at": "2025-08-15T12:24:44Z",
         "updated_at": "2025-08-15T12:24:46Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025081501/LimbusLocalize_2025081501.zip"
