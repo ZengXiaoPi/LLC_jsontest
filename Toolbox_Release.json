@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/220855968",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/220855968/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/220855968/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v1.2.1",
-  "id": 220855968,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/242477447",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/242477447/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/242477447/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v1.3.0",
+  "id": 242477447,
   "author": {
     "login": "ZengXiaoPi",
     "id": 102937102,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJRBtb84NKf6g",
-  "tag_name": "v1.2.1",
+  "node_id": "RE_kwDOJRBtb84Oc-mH",
+  "tag_name": "v1.3.0",
   "target_commitish": "master",
-  "name": "v1.2.1",
+  "name": "v1.3.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2025-05-25T06:14:49Z",
-  "updated_at": "2025-08-24T19:03:37Z",
-  "published_at": "2025-05-25T14:07:22Z",
+  "created_at": "2025-08-26T06:59:00Z",
+  "updated_at": "2025-08-26T07:49:35Z",
+  "published_at": "2025-08-26T07:49:35Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/257972296",
-      "id": 257972296,
-      "node_id": "RA_kwDOJRBtb84PYFhI",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/286300209",
+      "id": 286300209,
+      "node_id": "RA_kwDOJRBtb84REJgx",
       "name": "LLC_MOD_Toolbox.7z",
       "label": null,
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 20339072,
-      "digest": null,
-      "download_count": 11438,
-      "created_at": "2025-05-25T14:02:45Z",
-      "updated_at": "2025-05-25T14:03:11Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.2.1/LLC_MOD_Toolbox.7z"
+      "size": 20602158,
+      "digest": "sha256:82087825594bd0bab62ef4adebc2fd53e8e8b9a2e1eb1bf5c5ac282ba444c9d8",
+      "download_count": 199,
+      "created_at": "2025-08-26T07:23:46Z",
+      "updated_at": "2025-08-26T07:23:58Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.3.0/LLC_MOD_Toolbox.7z"
     },
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/257972272",
-      "id": 257972272,
-      "node_id": "RA_kwDOJRBtb84PYFgw",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/286300265",
+      "id": 286300265,
+      "node_id": "RA_kwDOJRBtb84REJhp",
       "name": "LLC_MOD_Toolbox_Installer.exe",
       "label": null,
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/x-msdownload",
       "state": "uploaded",
-      "size": 22441439,
-      "digest": null,
-      "download_count": 10895,
-      "created_at": "2025-05-25T14:02:25Z",
-      "updated_at": "2025-05-25T14:02:42Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.2.1/LLC_MOD_Toolbox_Installer.exe"
+      "size": 22706153,
+      "digest": "sha256:01419221fad0514ece1d95ebc284bd7dc8ebacf9c89825bfc70597d7cda969bc",
+      "download_count": 202,
+      "created_at": "2025-08-26T07:23:59Z",
+      "updated_at": "2025-08-26T07:24:12Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.3.0/LLC_MOD_Toolbox_Installer.exe"
     },
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/257972292",
-      "id": 257972292,
-      "node_id": "RA_kwDOJRBtb84PYFhE",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/286300124",
+      "id": 286300124,
+      "node_id": "RA_kwDOJRBtb84REJfc",
       "name": "LLC_MOD_Toolbox_SFX.exe",
       "label": null,
       "uploader": {
@@ -137,27 +137,15 @@
       },
       "content_type": "application/x-msdownload",
       "state": "uploaded",
-      "size": 20553088,
-      "digest": null,
-      "download_count": 4246,
-      "created_at": "2025-05-25T14:02:42Z",
-      "updated_at": "2025-05-25T14:03:03Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.2.1/LLC_MOD_Toolbox_SFX.exe"
+      "size": 20816174,
+      "digest": "sha256:c9181c48b93da439e6c5ea12c6bec457a1db9ea2e5d1d3b3957b2013a3e6ce6c",
+      "download_count": 58,
+      "created_at": "2025-08-26T07:23:27Z",
+      "updated_at": "2025-08-26T07:23:46Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.3.0/LLC_MOD_Toolbox_SFX.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v1.2.1",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v1.2.1",
-  "body": "感谢各位对于零协会的一贯支持。\r\n\r\n## 介绍 NEW FEATURE\r\n- [重要]支持使用安装包，此安装包不修改注册表，主要为了方便更新\r\n- [重要]现在，可以在安装页面替换汉化的字体\r\n- 其他问题修复\r\n## 文件说明 FILE EXPLANATION\r\n- LLC_MOD_Toolbox_Installer.exe 安装包 | Installer\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包 | Self-Unarchive ZIP\r\n- LLC_MOD_Toolbox.7z 压缩包 | ZIP\r\n## ？？？\r\n> ......最终，雷姆必拓人选择用班克坚果这种最易丰收的作物来为这一片山脉命名。这里处于塔尔干矿脉西南分支的末端，在天灾频发的雷姆必拓已经算得上是难得的宜居之所。西南方的海洋季风带来了适宜的降水，如果发生在这里的那两场天灾之间稍有几年的间隔，人们便可在山坡上见到一片片茂盛的阔叶林。\r\n现在看来，我几乎没有任何办法将它如今的样貌与我记忆中的模样相合——在一万年前，源石还未扩散的时候，这里还是一片广袤而荒芜的平原。\r\n那片荒原即是我在泰拉见到的最初的景象，我的旅途是从这里开始的。\r\n在从这里离开数个世纪后，我又试图寻找、返回此处，这一无意义的尝试也近乎徒劳。彼时不存在可以描述方位的语言，荒芜的原野上没有足够稳固的参照物，夜空中的群星同样不能作为指路的信标。最终，我将储存于体内的卫星图中描绘的几处主要山脉作为标记点，大致确定了那片平原的所在。当我返回这里时，我看到一部分先民逃离了与提卡兹的战场，在这里定居，他们的部落已经有百余人的规模。\r\n那是生命的痕迹。\r\n我继续寻找，开始徘徊于这片名为泰拉的大地，但我深知我索求的答案只能在时间中寻找。时间是孤独的，而生命的体验绝非“孤独”一词可以概括。我开始在茫然的旅途中收获欣喜，尽管这样的欣喜令我疲惫不堪。\r\n我不得不承认，我偶尔需要停下脚步以获得短暂的安息，我意识到这样的停歇开始变得频繁。或许是因为我遇到的、从不曾期待过的同行者，他们允许我有近乎懈怠的放松，而我可以交付的信任，还有不安和不舍，也都因他们而存在。\r\n我从未因为漫长的时间而忘记过万物终有尽时，我更无意与这样的法则对抗。只是在终点到来之前，我擅自期待过这趟旅途会有一个更温和的结束。\r\n我必将再次为此感到欣喜。\r\n......\r\n\r\n-----\r\n\r\n[什么？购买了Mirror酱CDK？点击这里⚡高⚡速⚡下载最新版工具箱！](https://mirrorchyan.com/zh/projects?rid=LLC_MOD_Toolbox&source=LLCGH-release)",
-  "reactions": {
-    "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/220855968/reactions",
-    "total_count": 7,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 2,
-    "hooray": 1,
-    "confused": 0,
-    "heart": 1,
-    "rocket": 1,
-    "eyes": 1
-  }
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v1.3.0",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v1.3.0",
+  "body": "> 她知道自己怀着使命诞生于这片文明的荒墟，却无人点明她的未来。她终究无法摆脱这个使命而活着，像进食，又似睡眠。\r\n\r\n感谢各位对于零协会的一贯支持。\r\n\r\n## 介绍 NEW FEATURE\r\n- [重要] 支持[Mirror酱](https://mirrorchyan.com/)的全镜像，开屏允许输入Mirror酱秘钥，重启后进入Mirror酱模式\r\n  - 从其他渠道（例如[MAA](https://maa.plus/)） 购买的CDK同样可用于工具箱\r\n  - 部分功能仍依赖零协会服务器\r\n  - 日志中若将输出秘钥，会自动屏蔽为星号\r\n  - 秘钥通过DPAPI存储，且存储在AppData，无须担心泄露，关闭模式后会自动删除秘钥文件\r\n- [重要] 工具箱内可以自动下载安装器，以自动更新工具箱\r\n- 抽卡模拟器现在显示文本的速度更快（0.15s->0.05s）\r\n- 在抽卡模拟器增加了彩蛋\r\n- 主页现在会显示当前版本号与最新版本号\r\n- 现在会使用工具箱自己的窗口，从而美化弹窗\r\n- 现在选择节点后，下次启动会默认选择该节点\r\n- 在热更新按钮旁设置内置帮助文本\r\n- 优化Loading文本加载逻辑\r\n- 现在，如果GetURLText获取文本失败，会重试3次\r\n- 错误在模组更新时使用Github API\r\n- 现在，灰度测试秘钥如果有效，将恢复用户权限\r\n- 修复读取loadingText时没有做判空导致的报错 #148 \r\n\r\n## 文件说明 FILE EXPLANATION\r\n- LLC_MOD_Toolbox_Installer.exe 安装包 | Installer\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包 | Self-Unarchive ZIP\r\n- LLC_MOD_Toolbox.7z 压缩包 | ZIP\r\n\r\n[什么？购买了Mirror酱CDK？点击这里⚡高⚡速⚡下载最新版工具箱！](https://mirrorchyan.com/zh/projects?rid=LLC_MOD_Toolbox&source=LLCGH-release)"
 }
