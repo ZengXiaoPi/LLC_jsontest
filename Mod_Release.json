@@ -68,7 +68,7 @@
         "state": "uploaded",
         "size": 1965104,
         "digest": "sha256:d274b1b9443a8b7fcdf6f5d8469aed4092c6a5654bf782d09f1e960bac8dcbec",
-        "download_count": 301,
+        "download_count": 341,
         "created_at": "2025-10-25T02:12:33Z",
         "updated_at": "2025-10-25T02:12:34Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025102501/LimbusLocalize_2025102501.7z"
@@ -104,7 +104,7 @@
         "state": "uploaded",
         "size": 4018348,
         "digest": "sha256:7ec9ab586d7e0b68854930dfb587fe46679944925a663ea2e7be647cdec05135",
-        "download_count": 257,
+        "download_count": 292,
         "created_at": "2025-10-25T02:12:35Z",
         "updated_at": "2025-10-25T02:12:37Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025102501/LimbusLocalize_2025102501.zip"
@@ -655,7 +655,7 @@
         "state": "uploaded",
         "size": 1873784,
         "digest": "sha256:51329017ec15bd4681311187598ebc94268108332754bc3bd6b13af44ca57737",
-        "download_count": 707,
+        "download_count": 708,
         "created_at": "2025-09-18T19:01:37Z",
         "updated_at": "2025-09-18T19:01:38Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025091901/LimbusLocalize_2025091901.7z"
@@ -1036,7 +1036,7 @@
         "state": "uploaded",
         "size": 3813887,
         "digest": "sha256:139763032fc89aeb9f4b666ce421854130d2e902c74691a3f6040aabd7c6b9d9",
-        "download_count": 507,
+        "download_count": 508,
         "created_at": "2025-08-30T18:17:52Z",
         "updated_at": "2025-08-30T18:17:54Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025083101/LimbusLocalize_2025083101.zip"
@@ -1726,7 +1726,7 @@
         "state": "uploaded",
         "size": 3633765,
         "digest": "sha256:30b085b2ec27f3b03dd1067336bcee1f9f11790f5f2bb54b2ff93ece1fc25823",
-        "download_count": 445,
+        "download_count": 446,
         "created_at": "2025-08-01T05:57:20Z",
         "updated_at": "2025-08-01T05:57:22Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025080101/LimbusLocalize_2025080101.zip"
@@ -2416,7 +2416,7 @@
         "state": "uploaded",
         "size": 3534892,
         "digest": "sha256:59bfd15c624b772143855886b86363b6e485af767d10070cd53e7fba3e9eabbd",
-        "download_count": 3,
+        "download_count": 4,
         "created_at": "2025-07-05T14:42:37Z",
         "updated_at": "2025-07-05T14:42:39Z",
         "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2025070501/LimbusLocalize_2025070501.zip"
