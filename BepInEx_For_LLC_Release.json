@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 25368920,
       "digest": null,
-      "download_count": 36004,
+      "download_count": 36005,
       "created_at": "2023-09-23T14:59:44Z",
       "updated_at": "2023-09-23T15:01:49Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/BepInEx_For_LLC/releases/download/v6.0.1-LLC/BepInEx-IL2CPP-x64-6.0.1.7z"
