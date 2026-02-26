@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 22109624,
       "digest": "sha256:444881f57ef07f1e4a16ad4e33ea1aee04db276aec5607caa935eb6a0a94a0d9",
-      "download_count": 1727,
+      "download_count": 1820,
       "created_at": "2026-02-09T13:00:13Z",
       "updated_at": "2026-02-09T13:00:14Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.4.0/LLC_MOD_Toolbox.7z"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 24255710,
       "digest": "sha256:b6571865930a8f033fb8bcda45234ee8afcaa503dbca79c577dae0fa077626e8",
-      "download_count": 1718,
+      "download_count": 1804,
       "created_at": "2026-02-09T13:00:13Z",
       "updated_at": "2026-02-09T13:00:15Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.4.0/LLC_MOD_Toolbox_Installer.exe"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 22431417,
       "digest": "sha256:eb593096b45fdf1999b54a79edeb17bc2bf62a3855745399950ed0c6740a84d8",
-      "download_count": 566,
+      "download_count": 605,
       "created_at": "2026-02-09T13:00:13Z",
       "updated_at": "2026-02-09T13:00:15Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.4.0/LLC_MOD_Toolbox_SFX.exe"
