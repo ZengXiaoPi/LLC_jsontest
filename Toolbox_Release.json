@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/284394736",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/284394736/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/284394736/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v1.4.0",
-  "id": 284394736,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/307830434",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/307830434/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/307830434/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v2.0.0",
+  "id": 307830434,
   "author": {
     "login": "ZengXiaoPi",
     "id": 102937102,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJRBtb84Q84Tw",
-  "tag_name": "v1.4.0",
+  "node_id": "RE_kwDOJRBtb84SWR6i",
+  "tag_name": "v2.0.0",
   "target_commitish": "master",
-  "name": "v1.4.0",
+  "name": "v2.0.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-02-09T12:52:06Z",
-  "updated_at": "2026-02-09T13:00:15Z",
-  "published_at": "2026-02-09T12:58:27Z",
+  "created_at": "2026-04-11T08:45:18Z",
+  "updated_at": "2026-04-11T09:21:32Z",
+  "published_at": "2026-04-11T09:20:06Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/353085240",
-      "id": 353085240,
-      "node_id": "RA_kwDOJRBtb84VC6c4",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/393999740",
+      "id": 393999740,
+      "node_id": "RA_kwDOJRBtb84Xe_V8",
       "name": "LLC_MOD_Toolbox.7z",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/x-7z-compressed",
       "state": "uploaded",
-      "size": 22109624,
-      "digest": "sha256:444881f57ef07f1e4a16ad4e33ea1aee04db276aec5607caa935eb6a0a94a0d9",
-      "download_count": 19309,
-      "created_at": "2026-02-09T13:00:13Z",
-      "updated_at": "2026-02-09T13:00:14Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.4.0/LLC_MOD_Toolbox.7z"
+      "size": 5956928,
+      "digest": "sha256:a621b1a19b7ccde0ba51cd4ccb2bb9977e168a8bff913fba55369d4653fa4906",
+      "download_count": 174,
+      "created_at": "2026-04-11T09:21:31Z",
+      "updated_at": "2026-04-11T09:21:32Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v2.0.0/LLC_MOD_Toolbox.7z"
     },
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/353085242",
-      "id": 353085242,
-      "node_id": "RA_kwDOJRBtb84VC6c6",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/393999741",
+      "id": 393999741,
+      "node_id": "RA_kwDOJRBtb84Xe_V9",
       "name": "LLC_MOD_Toolbox_Installer.exe",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 24255710,
-      "digest": "sha256:b6571865930a8f033fb8bcda45234ee8afcaa503dbca79c577dae0fa077626e8",
-      "download_count": 14595,
-      "created_at": "2026-02-09T13:00:13Z",
-      "updated_at": "2026-02-09T13:00:15Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.4.0/LLC_MOD_Toolbox_Installer.exe"
+      "size": 8105905,
+      "digest": "sha256:f532c7627c0800f9cde923e9e782905a484482f3f64e496baea157e2240fe320",
+      "download_count": 126,
+      "created_at": "2026-04-11T09:21:31Z",
+      "updated_at": "2026-04-11T09:21:32Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v2.0.0/LLC_MOD_Toolbox_Installer.exe"
     },
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/353085243",
-      "id": 353085243,
-      "node_id": "RA_kwDOJRBtb84VC6c7",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/393999742",
+      "id": 393999742,
+      "node_id": "RA_kwDOJRBtb84Xe_V-",
       "name": "LLC_MOD_Toolbox_SFX.exe",
       "label": "",
       "uploader": {
@@ -137,28 +137,15 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 22431417,
-      "digest": "sha256:eb593096b45fdf1999b54a79edeb17bc2bf62a3855745399950ed0c6740a84d8",
-      "download_count": 3831,
-      "created_at": "2026-02-09T13:00:13Z",
-      "updated_at": "2026-02-09T13:00:15Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v1.4.0/LLC_MOD_Toolbox_SFX.exe"
+      "size": 6213534,
+      "digest": "sha256:91d33b5ff30f2634d3fede30708e292b239ea385bcff8127a52899f7732012da",
+      "download_count": 28,
+      "created_at": "2026-04-11T09:21:31Z",
+      "updated_at": "2026-04-11T09:21:32Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v2.0.0/LLC_MOD_Toolbox_SFX.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v1.4.0",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v1.4.0",
-  "body": "## What's Changed\r\n* v1.3.0.1 mirror酱来源统计 & 取消mirror酱的开屏弹窗 & 更智能的查找边狱巴士路径 & 修复一些bug by @loadingying in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/176\r\n* 修复抽卡模拟器有概率人格结果不显示的问题 by @loadingying in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/178\r\n* 使用action构建工具箱 by @loadingying in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/180\r\n* 安装程序默认安装至AppData，避免权限问题 by @loadingying in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/182\r\n* fix: 当替换字体文件无效时的程序崩溃 by @hatulaile in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/187\r\n* chore: url多了个斜杠 by @MistEO in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/188\r\n\r\n## New Contributors\r\n* @loadingying made their first contribution in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/176\r\n* @hatulaile made their first contribution in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/187\r\n\r\n**Full Changelog**: https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/compare/v1.3.0...v1.4.0\n\n## What's Changed\n* v1.3.0.1 mirror酱来源统计 & 取消mirror酱的开屏弹窗 & 更智能的查找边狱巴士路径 & 修复一些bug by @loadingying in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/176\n* 修复抽卡模拟器有概率人格结果不显示的问题 by @loadingying in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/178\n* 使用action构建工具箱 by @loadingying in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/180\n* 安装程序默认安装至AppData，避免权限问题 by @loadingying in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/182\n* fix: 当替换字体文件无效时的程序崩溃 by @hatulaile in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/187\n* chore: url多了个斜杠 by @MistEO in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/188\n\n## New Contributors\n* @loadingying made their first contribution in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/176\n* @hatulaile made their first contribution in https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/pull/187\n\n**Full Changelog**: https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/compare/v1.3.0...v1.4.0",
-  "reactions": {
-    "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/284394736/reactions",
-    "total_count": 3,
-    "+1": 3,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  },
-  "mentions_count": 3
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v2.0.0",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v2.0.0",
+  "body": "> “去找到你自己。”\r\n> 这并不是难以理解的命令，“找到自己”的涵义存在于哲学与逻辑学的知识体系中。但是，我从预言家的话语中感受到了强烈的失落。\r\n> 或许，预言家还有其他想让我做到的事？\r\n> 寻找生命的痕迹，守护文明的火种。这些行为，或许与预言家在辩论中主张的希望有着相同的价值取向。对比那一条指令，它是稍显复杂的问题。\r\n> 带着这样的疑惑，我开始了自己的旅程。\r\n\r\n感谢各位对于零协会的一贯支持。\r\n\r\n## 介绍 NEW FEATURE\r\n- **[重要] 字体子集化，从而大幅缩小安装包体积（20Mib -> 7Mib）**\r\n- **[重要] 皮肤现在默认只带默认皮肤，可自选下载服务器皮肤**\r\n- **[重要] MVVM化，大幅增加可阅读性**\r\n- 如果在灰度测试输入Mirror酱秘钥，会显示提示弹窗\r\n- 启动时会自动检查边狱公司路径是否可用\r\n- 修复了错误的Bilibili和爱发电链接\r\n- 使用了新版小黑小白立绘\r\n- 修复了部分情况下链接按钮消失的问题\r\n\r\n## 文件说明 FILE EXPLANATION\r\n- LLC_MOD_Toolbox_Installer.exe 安装包 | Installer\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包 | Self-Unarchive ZIP\r\n- LLC_MOD_Toolbox.7z 压缩包 | ZIP\r\n\r\n[什么？购买了Mirror酱CDK？点击这里⚡高⚡速⚡下载最新版工具箱！](https://mirrorchyan.com/zh/projects?rid=LLC_MOD_Toolbox&source=LLCGH-release)\n\n**Full Changelog**: https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/compare/v1.4.0...v2.0.0"
 }
