@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2341680,
       "digest": "sha256:65fa790bc5f64402c3236a9b3639a7ae1a832fb775fcd279471e40a71730afac",
-      "download_count": 57,
+      "download_count": 1306,
       "created_at": "2026-04-18T04:45:54Z",
       "updated_at": "2026-04-18T04:45:55Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2026041801/LimbusLocalize_2026041801.7z"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4817004,
       "digest": "sha256:8187e1678bf61c094458a05c1741acc3774e9be59b286a69e9c9154042652dd1",
-      "download_count": 38,
+      "download_count": 642,
       "created_at": "2026-04-18T04:45:56Z",
       "updated_at": "2026-04-18T04:45:58Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/download/2026041801/LimbusLocalize_2026041801.zip"
@@ -114,11 +114,11 @@
   "body": "2026041801版资源更新\n2026041801 version Resource Update\n-----\n[什么？购买了Mirror酱CDK？点击这里⚡高⚡速⚡下载最新版工具箱！](https://mirrorchyan.com/zh/projects?rid=LLC_MOD_Toolbox&source=LLCGH-release)",
   "reactions": {
     "url": "https://api.github.com/repos/LocalizeLimbusCompany/LocalizeLimbusCompany/releases/310641512/reactions",
-    "total_count": 2,
+    "total_count": 4,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
-    "hooray": 1,
+    "hooray": 3,
     "confused": 0,
     "heart": 0,
     "rocket": 1,
