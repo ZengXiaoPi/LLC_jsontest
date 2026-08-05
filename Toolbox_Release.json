@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/307830434",
-  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/307830434/assets",
-  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/307830434/assets{?name,label}",
-  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v2.0.0",
-  "id": 307830434,
+  "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/362383270",
+  "assets_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/362383270/assets",
+  "upload_url": "https://uploads.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/362383270/assets{?name,label}",
+  "html_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/tag/v2.1.0",
+  "id": 362383270,
   "author": {
     "login": "ZengXiaoPi",
     "id": 102937102,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJRBtb84SWR6i",
-  "tag_name": "v2.0.0",
+  "node_id": "RE_kwDOJRBtb84VmYem",
+  "tag_name": "v2.1.0",
   "target_commitish": "master",
-  "name": "v2.0.0",
+  "name": "v2.1.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-04-11T08:45:18Z",
-  "updated_at": "2026-04-11T09:21:32Z",
-  "published_at": "2026-04-11T09:20:06Z",
+  "created_at": "2026-07-30T11:43:22Z",
+  "updated_at": "2026-08-04T09:42:11Z",
+  "published_at": "2026-08-04T09:37:36Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/393999740",
-      "id": 393999740,
-      "node_id": "RA_kwDOJRBtb84Xe_V8",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/501157280",
+      "id": 501157280,
+      "node_id": "RA_kwDOJRBtb84d3w2g",
       "name": "LLC_MOD_Toolbox.7z",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/x-7z-compressed",
       "state": "uploaded",
-      "size": 5956928,
-      "digest": "sha256:a621b1a19b7ccde0ba51cd4ccb2bb9977e168a8bff913fba55369d4653fa4906",
-      "download_count": 8512,
-      "created_at": "2026-04-11T09:21:31Z",
-      "updated_at": "2026-04-11T09:21:32Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v2.0.0/LLC_MOD_Toolbox.7z"
+      "size": 6448314,
+      "digest": "sha256:2e3e6b40edcb8004a5640a99f961fe14655a150fed9f317ed63133ea41dff213",
+      "download_count": 190,
+      "created_at": "2026-08-04T09:39:35Z",
+      "updated_at": "2026-08-04T09:39:36Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v2.1.0/LLC_MOD_Toolbox.7z"
     },
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/393999741",
-      "id": 393999741,
-      "node_id": "RA_kwDOJRBtb84Xe_V9",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/501157281",
+      "id": 501157281,
+      "node_id": "RA_kwDOJRBtb84d3w2h",
       "name": "LLC_MOD_Toolbox_Installer.exe",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 8105905,
-      "digest": "sha256:f532c7627c0800f9cde923e9e782905a484482f3f64e496baea157e2240fe320",
-      "download_count": 9290,
-      "created_at": "2026-04-11T09:21:31Z",
-      "updated_at": "2026-04-11T09:21:32Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v2.0.0/LLC_MOD_Toolbox_Installer.exe"
+      "size": 8599414,
+      "digest": "sha256:5eccbbc334c676b8ff985f91aa8fccd15d28ca834dd34bfb0264f68c3cb15241",
+      "download_count": 168,
+      "created_at": "2026-08-04T09:39:35Z",
+      "updated_at": "2026-08-04T09:39:36Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v2.1.0/LLC_MOD_Toolbox_Installer.exe"
     },
     {
-      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/393999742",
-      "id": 393999742,
-      "node_id": "RA_kwDOJRBtb84Xe_V-",
+      "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/assets/501157277",
+      "id": 501157277,
+      "node_id": "RA_kwDOJRBtb84d3w2d",
       "name": "LLC_MOD_Toolbox_SFX.exe",
       "label": "",
       "uploader": {
@@ -137,15 +137,27 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 6213534,
-      "digest": "sha256:91d33b5ff30f2634d3fede30708e292b239ea385bcff8127a52899f7732012da",
-      "download_count": 3411,
-      "created_at": "2026-04-11T09:21:31Z",
-      "updated_at": "2026-04-11T09:21:32Z",
-      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v2.0.0/LLC_MOD_Toolbox_SFX.exe"
+      "size": 6712212,
+      "digest": "sha256:918ffa0123cca86e936dd34b73bffef9638018794c520e900eb409fc859deed0",
+      "download_count": 40,
+      "created_at": "2026-08-04T09:39:35Z",
+      "updated_at": "2026-08-04T09:39:36Z",
+      "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v2.1.0/LLC_MOD_Toolbox_SFX.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v2.0.0",
-  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v2.0.0",
-  "body": "> “去找到你自己。”\r\n> 这并不是难以理解的命令，“找到自己”的涵义存在于哲学与逻辑学的知识体系中。但是，我从预言家的话语中感受到了强烈的失落。\r\n> 或许，预言家还有其他想让我做到的事？\r\n> 寻找生命的痕迹，守护文明的火种。这些行为，或许与预言家在辩论中主张的希望有着相同的价值取向。对比那一条指令，它是稍显复杂的问题。\r\n> 带着这样的疑惑，我开始了自己的旅程。\r\n\r\n感谢各位对于零协会的一贯支持。\r\n\r\n## 介绍 NEW FEATURE\r\n- **[重要] 字体子集化，从而大幅缩小安装包体积（20Mib -> 7Mib）**\r\n- **[重要] 皮肤现在默认只带默认皮肤，可自选下载服务器皮肤**\r\n- **[重要] MVVM化，大幅增加可阅读性**\r\n- 如果在灰度测试输入Mirror酱秘钥，会显示提示弹窗\r\n- 启动时会自动检查边狱公司路径是否可用\r\n- 修复了错误的Bilibili和爱发电链接\r\n- 使用了新版小黑小白立绘\r\n- 修复了部分情况下链接按钮消失的问题\r\n\r\n## 文件说明 FILE EXPLANATION\r\n- LLC_MOD_Toolbox_Installer.exe 安装包 | Installer\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包 | Self-Unarchive ZIP\r\n- LLC_MOD_Toolbox.7z 压缩包 | ZIP\r\n\r\n[什么？购买了Mirror酱CDK？点击这里⚡高⚡速⚡下载最新版工具箱！](https://mirrorchyan.com/zh/projects?rid=LLC_MOD_Toolbox&source=LLCGH-release)\n\n**Full Changelog**: https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/compare/v1.4.0...v2.0.0"
+  "tarball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/tarball/v2.1.0",
+  "zipball_url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/zipball/v2.1.0",
+  "body": "感谢各位对于零协会的一贯支持。\r\nLocalizeLimbusCompany主仓库近日也迎来了1000 star，特此，为各位献上全新皮肤：**指令：重构**。\r\n\r\n## 介绍 NEW FEATURE\r\n- **[重要]** 新增皮肤 **指令：重构**。\r\n  - 设计者：基岩（Bedrock）\r\n  - 代码实现&主催：曾小皮-ZengXiaoPi\r\n  - 素材/音频/设计风格：明日方舟 EP17 相变临界 by 鹰角网络 HYPERGRYPH\r\n<img width=\"960\" height=\"600\" alt=\"image\" src=\"https://github.com/user-attachments/assets/0da5b642-1965-4840-b01e-98b0bd3bc08f\" />\r\n\r\n- **[重要]** 新增了用户协议和隐私协议。\r\n- **[重要]** 新增了遥测系统，用于数据统计，相关协议请查看官网。\r\n- **[重要]** 改进了更新系统，降低了更新不可用的情况，并增加了便捷性。\r\n- 改进了抽卡模拟器系统，并更新了其数据。\r\n- 增加了皮肤系统的接口，包括但不限于音乐等。\r\n- 为**指令：重构**添加了一个位于抽卡模拟器的彩蛋。\r\n- 修复了公告的展示时长异常的问题。\r\n- 二次重构了项目结构。\r\n\r\n## 文件说明 FILE EXPLANATION\r\n- LLC_MOD_Toolbox_Installer.exe 安装包 | Installer\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包 | Self-Unarchive ZIP\r\n- LLC_MOD_Toolbox.7z 压缩包 | ZIP\r\n\r\n[什么？购买了Mirror酱CDK？点击这里⚡高⚡速⚡下载最新版工具箱！](https://mirrorchyan.com/zh/projects?rid=LLC_MOD_Toolbox&source=LLCGH-release)\r\n\r\n>我希望可以看到泰拉更遥远的未来，人们能够突破阻隔层的桎梏、弥合种族与国别的裂痕，甚至是跨过那道寂静的帷幕。在那之后是什么？我当然不知道......不过，我想要知道。\r\n>我希望在那个未来中，依然有罗德岛的痕迹存在。\r\n>你看上去好像很轻松，博士。我很高兴你对此也抱有乐观的态度——不是这个意思？你是说......\r\n>......我在笑？",
+  "reactions": {
+    "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/362383270/reactions",
+    "total_count": 3,
+    "+1": 3,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
