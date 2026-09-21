@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6448314,
       "digest": "sha256:2e3e6b40edcb8004a5640a99f961fe14655a150fed9f317ed63133ea41dff213",
-      "download_count": 3640,
+      "download_count": 3856,
       "created_at": "2026-08-04T09:39:35Z",
       "updated_at": "2026-08-04T09:39:36Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v2.1.0/LLC_MOD_Toolbox.7z"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8599414,
       "digest": "sha256:5eccbbc334c676b8ff985f91aa8fccd15d28ca834dd34bfb0264f68c3cb15241",
-      "download_count": 3926,
+      "download_count": 4153,
       "created_at": "2026-08-04T09:39:35Z",
       "updated_at": "2026-08-04T09:39:36Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v2.1.0/LLC_MOD_Toolbox_Installer.exe"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6712212,
       "digest": "sha256:918ffa0123cca86e936dd34b73bffef9638018794c520e900eb409fc859deed0",
-      "download_count": 1305,
+      "download_count": 1348,
       "created_at": "2026-08-04T09:39:35Z",
       "updated_at": "2026-08-04T09:39:36Z",
       "browser_download_url": "https://github.com/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/download/v2.1.0/LLC_MOD_Toolbox_SFX.exe"
@@ -150,8 +150,8 @@
   "body": "感谢各位对于零协会的一贯支持。\r\nLocalizeLimbusCompany主仓库近日也迎来了1000 star，特此，为各位献上全新皮肤：**指令：重构**。\r\n\r\n## 介绍 NEW FEATURE\r\n- **[重要]** 新增皮肤 **指令：重构**。\r\n  - 设计者：基岩（Bedrock）\r\n  - 代码实现&主催：曾小皮-ZengXiaoPi\r\n  - 素材/音频/设计风格：明日方舟 EP17 相变临界 by 鹰角网络 HYPERGRYPH\r\n<img width=\"960\" height=\"600\" alt=\"image\" src=\"https://github.com/user-attachments/assets/0da5b642-1965-4840-b01e-98b0bd3bc08f\" />\r\n\r\n- **[重要]** 新增了用户协议和隐私协议。\r\n- **[重要]** 新增了遥测系统，用于数据统计，相关协议请查看官网。\r\n- **[重要]** 改进了更新系统，降低了更新不可用的情况，并增加了便捷性。\r\n- 改进了抽卡模拟器系统，并更新了其数据。\r\n- 增加了皮肤系统的接口，包括但不限于音乐等。\r\n- 为**指令：重构**添加了一个位于抽卡模拟器的彩蛋。\r\n- 修复了公告的展示时长异常的问题。\r\n- 二次重构了项目结构。\r\n\r\n## 文件说明 FILE EXPLANATION\r\n- LLC_MOD_Toolbox_Installer.exe 安装包 | Installer\r\n- LLC_MOD_Toolbox_SFX.exe 自释放压缩包 | Self-Unarchive ZIP\r\n- LLC_MOD_Toolbox.7z 压缩包 | ZIP\r\n\r\n[什么？购买了Mirror酱CDK？点击这里⚡高⚡速⚡下载最新版工具箱！](https://mirrorchyan.com/zh/projects?rid=LLC_MOD_Toolbox&source=LLCGH-release)\r\n\r\n>我希望可以看到泰拉更遥远的未来，人们能够突破阻隔层的桎梏、弥合种族与国别的裂痕，甚至是跨过那道寂静的帷幕。在那之后是什么？我当然不知道......不过，我想要知道。\r\n>我希望在那个未来中，依然有罗德岛的痕迹存在。\r\n>你看上去好像很轻松，博士。我很高兴你对此也抱有乐观的态度——不是这个意思？你是说......\r\n>......我在笑？",
   "reactions": {
     "url": "https://api.github.com/repos/LocalizeLimbusCompany/LLC_MOD_Toolbox/releases/362383270/reactions",
-    "total_count": 4,
-    "+1": 4,
+    "total_count": 5,
+    "+1": 5,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
